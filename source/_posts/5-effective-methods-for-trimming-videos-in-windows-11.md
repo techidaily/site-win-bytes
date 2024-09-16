@@ -1,7 +1,7 @@
 ---
 title: 5 Effective Methods for Trimming Videos in Windows 11
-date: 2024-09-10 10:53:52
-updated: 2024-09-13 12:46:36
+date: 2024-09-13T17:44:25.317Z
+updated: 2024-09-16T02:15:28.079Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed441067719a242af16768dcd1.jpg
@@ -176,6 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -191,6 +198,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -266,6 +280,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -324,6 +345,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -361,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -536,11 +571,25 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>[New] Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-grandiose-photographic-epic-weaver-for-2024/"><u>[Updated] Grandiose Photographic Epic Weaver for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/44cm5oqw6zplusz44gr5lplusd5a2y44gv44km44gf5yuv55s744ks5a6j5ywo44gr44oa44km44oz44ot44o844oj44gz44kl57ch5y2y44ks44kk44oj44cn/"><u>「抖音に保存された動画を安全にダウンロードする簡単ガイド」</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>2024 Approved How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>2024 Approved Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discover-the-best-voice-interpretation-tech-for-mac-users/"><u>Discover the Best Voice Interpretation Tech for Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array-for-2024/"><u>Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-guide-to-choosing-the-ideal-mpeg/"><u>Ultimate Guide to Choosing the Ideal MPEG-</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-10wavmp3/"><u>Windows 10上のWAVファイルをMP3形式に効果的に変換する手順集</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1726030051217-windows/"><u>Windows上でビデオの再生時間調整ガイド</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/44ot44oh44kq5pah5pu45yyw77ya44or44k944kz44oz44gn5a2x5bmv5qmf6io944ks5yip55so44gz44kl5pa55rov/"><u>ビデオ文書化：パソコンで字幕機能を利用する方法</u></a></li>
+</ul></div>
+
