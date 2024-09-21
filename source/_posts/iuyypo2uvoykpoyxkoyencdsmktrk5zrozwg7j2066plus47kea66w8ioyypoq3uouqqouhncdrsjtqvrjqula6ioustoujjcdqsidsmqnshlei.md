@@ -1,7 +1,7 @@
 ---
 title: "오피스에서 오드로 이미지를 오그모로 바꾸기: 무료 가용성"
-date: 2024-09-11 11:44:50
-updated: 2024-09-13 10:18:10
+date: 2024-09-19T08:30:44.163Z
+updated: 2024-09-20T17:32:44.677Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
@@ -211,6 +211,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
 優點：
@@ -259,6 +266,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
 優點：
@@ -299,7 +313,21 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
 
@@ -311,6 +339,13 @@ Movavi Photo Editor
 * XnView
 * Nomacs
 * Google Photos
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
 
@@ -393,11 +428,30 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-15-premium-free-music-websites-every-videographer-needs/"><u>[New] 2024 Approved 15 Premium, Free Music Websites Every Videographer Needs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-8-video-chat-apps-on-android-for-more-than-four/"><u>[New] Best 8 Video Chat Apps on Android for More Than Four</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-amplify-your-youtubes-interaction-with-emojis/"><u>[Updated] 2024 Approved Amplify Your Youtubes' Interaction with Emojis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-blending-words-with-pictures-adding-text-to-images-windowsmac-for-2024/"><u>[Updated] Blending Words with Pictures Adding Text to Images, Windows/Mac for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5-effective-methods-for-trimming-videos-in-windows-11/"><u>5 Effective Methods for Trimming Videos in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-broadband-speed-top-7-windows-11-solutions/"><u>Bring Back Broadband Speed: Top 7 Windows 11 Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/convert-your-ringtone-with-movavi-fast-free-transformation-of-m4r-to-wav/"><u>Convert Your Ringtone with Movavi: Fast, Free Transformation of M4R to WAV</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/free-online-conversion-transform-mp4-files-into-asf-format-with-easy-steps/"><u>Free Online Conversion: Transform MP4 Files Into ASF Format with Easy Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/les-meilleures-techniques-pour-enregistrer-des-videos-portables-une-solution-de-movavi-7-facons/"><u>Les Meilleures Techniques Pour Enregistrer Des Vidéos Portables : Une Solution De Movavi [7 Façons]</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-mp3-to-wav/"><u>Movavi MP3 to WAVフリーオンライン音楽コンバーター - 安心でございます</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mpgwebm-movavi/"><u>MPG到WEBM自由下載的線上過渡器：以 Movavi 為例</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/rmvbmp4-movavi/"><u>RMVB到MP4转换精选：最快捷、最简单的教程 | Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/self-repair-features-keeping-your-windows-10-computer-running-smoothly-without-a-hitch/"><u>Self-Repair Features: Keeping Your Windows 10 Computer Running Smoothly Without a Hitch</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-a05s-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel A05s</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+</ul></div>
+
