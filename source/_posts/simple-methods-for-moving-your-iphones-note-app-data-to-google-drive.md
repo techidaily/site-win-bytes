@@ -1,7 +1,7 @@
 ---
 title: Simple Methods for Moving Your iPhone's Note App Data to Google Drive
-date: 2024-11-10T23:07:19.954Z
-updated: 2024-11-12T19:36:37.619Z
+date: 2024-11-17T18:27:23.385Z
+updated: 2024-11-22T20:53:04.273Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e2683158738f923e4b38285f41.jpg
@@ -44,20 +44,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -88,10 +78,7 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -106,16 +93,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -149,16 +133,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -181,10 +162,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -195,7 +173,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,24 +198,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-miniature-harmonies-character-music-journey/"><u>[New] 2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-etiquette-ceasing-connections/"><u>[New] In 2024, Instagram Etiquette Ceasing Connections</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spice-up-your-feeds-text-based-meme-magic/"><u>[New] Spice Up Your Feeds Text-Based Meme Magic</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-jestjunction-tap-into-the-world-of-meme-magic/"><u>[Updated] 2024 Approved JestJunction Tap Into the World of Meme Magic</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-thumbnail-artistry-for-valorant-game-imagery-swiftly-executed/"><u>[Updated] 2024 Approved Thumbnail Artistry for Valorant Game Imagery, Swiftly Executed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevating-video-quality-incorporating-bb-and-lc-elements-in-fb/"><u>[Updated] Elevating Video Quality Incorporating BB and LC Elements in FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-stepwise-instructions-for-enhancing-youtube-clips-in-wmm-for-2024/"><u>[Updated] Stepwise Instructions for Enhancing YouTube Clips in WMM for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728463146914-ssd/"><u>無成本方法：如何透過雲端進行 SSD 的複製</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/best-fixes-for-the-most-common-issues-with-itunes-on-windows-10-top-3-solutions/"><u>Best Fixes for the Most Common Issues with iTunes on Windows 10 - Top 3 Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/essential-video-correction-programs-top-10-picks-for-windows-and-macos/"><u>Essential Video Correction Programs: Top 10 Picks for Windows & macOS</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/forced-windows-11-update-issues-losungen-fur-die-aktualisierungsprobleme-von-windows-11/"><u>Forced Windows 11 Update Issues - Lösungen Für Die Aktualisierungsprobleme Von Windows 11</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/fotorevival-kostenlose-ruckgewinnung-von-loschungen-bei-sd-speicherkarten/"><u>Fotorevival: Kostenlose Rückgewinnung Von Löschungen Bei SD-Speicherkarten</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-facil-de-recuperar-archivos-de-un-disco-duro-externo-sin-formatear/"><u>Guía Fácil De Recuperar Archivos De Un Disco Duro Externo Sin Formatear</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-overcome-the-preparing-to-transfer-issue-6-effective-strategies-for-iphone-16-users/"><u>How to Overcome the 'Preparing to Transfer' Issue: 6 Effective Strategies for iPhone 16 Users</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/metodi-affidabili-per-ripristinare-i-dati-da-ununita-storage-wd-elements/"><u>Metodi Affidabili per Ripristinare I Dati Da Un'unità Storage WD Elements</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/resolved-troubleshooting-the-non-responsive-windows-11-taskbar-and-start-menu-with-9-effective-fixes/"><u>Resolved: Troubleshooting the Non-Responsive Windows 11 Taskbar & Start Menu with 9 Effective Fixes</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-tutorial-on-installing-an-additional-ssd-in-laptops-featuring-galaxy-book2-architecture/"><u>Step-by-Step Tutorial on Installing an Additional SSD in Laptops Featuring Galaxy Book2 Architecture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>The Audiovisual Experience Elevated Mastering Audio Blending in Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[Updated] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-vlc-tutorial-the-art-of-video-angling-for-2024/"><u>[Updated] VLC Tutorial The Art of Video Angling for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-control-guide-powerdirector-user-manual/"><u>2024 Approved Total Control Guide PowerDirector User Manual</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728463364974-windows-11/"><u>创建Windows 11系统中硬盘完全拷贝的两种有效方法 - 详解</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/access-your-entire-photo-collection-with-icloud-on-ios-devices-ios-17-and-16/"><u>Access Your Entire Photo Collection with iCloud on iOS Devices (iOS 17 & 16)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/casino-confidential-communiques/"><u>CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/come-recupera-i-dati-del-disco-c-strategie-di-backup-e-ripristino-per-versioni-di-windows-multiple/"><u>Come Recupera I Dati Del Disco C: Strategie Di Backup E Ripristino per Versioni Di Windows Multiple</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhance-your-photo-game-with-top-editors-for-2024/"><u>Enhance Your Photo Game with Top Editors for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-refresh-your-computers-dns-settings-on-windows-10-and-11/"><u>Expert Techniques to Refresh Your Computer's DNS Settings on Windows 10 and 11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-complet-pour-reparation-des-fichiers-critiques-systeme-demage-a-lamorcage-sous-windows-novo/"><u>Guide Complet Pour Réparation Des Fichiers Critiques Système Démage À L'Amorçage Sous Windows Novo !</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/lenovowindows-osssd/"><u>LenovoパソコンでWindows OSが入ったSSDへ即座に移行する方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/loop-mechanics-collection/"><u>Loop Mechanics Collection</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/schritt-fur-schritt-guide-zum-beheben-von-bootproblemen-mit-uefi-in-windows-server-2019-ihre-umfassende-losung/"><u>Schritt-Für-Schritt-Guide Zum Beheben Von Bootproblemen Mit UEFI in Windows Server 2019: Ihre Umfassende Lösung!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/speichern-und-transferieren-von-dateien-auf-einem-neuen-mac-die-schnellsten-strategien-vergleichen/"><u>Speichern Und Transferieren Von Dateien Auf Einem Neuen Mac: Die Schnellsten Strategien Vergleichen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-might-want-to-avoid-chatgpt-as-your-primary-medical-resource-5-reasons-explained/"><u>Why You Might Want to Avoid ChatGPT as Your Primary Medical Resource - 5 Reasons Explained</u></a></li>
 </ul></div>
 
