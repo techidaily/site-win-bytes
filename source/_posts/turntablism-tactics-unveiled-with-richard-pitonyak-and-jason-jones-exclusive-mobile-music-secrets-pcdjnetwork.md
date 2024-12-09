@@ -1,7 +1,7 @@
 ---
 title: Turntablism Tactics Unveiled with Richard Pitonyak and Jason Jones | Exclusive Mobile Music Secrets | #PCDJNetwork
-date: 2024-11-26T06:22:18.766Z
-updated: 2024-12-01T03:46:40.998Z
+date: 2024-12-07T05:42:06.504Z
+updated: 2024-12-09T01:13:15.968Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/comment-restaurer-un-secteur-trop-long-guide-expert-avec-4-tactiques-inedites/"><u>« Comment Restaurer Un Secteur Trop Long : Guide Expert Avec 4 Tactiques Inédites »</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-resolving-disk-space-issues-on-windows-10-how-to-recover-deleted-files/"><u>1. 'Resolving Disk Space Issues on Windows 10: How to Recover Deleted Files'</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smoothmoves-recordwatcher-study/"><u>2024 Approved SmoothMoves RecordWatcher Study</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/come-creare-e-utilizzare-il-disco-di-ripristino-in-windows-server-2012-guida-completa/"><u>Come Creare E Utilizzare Il Disco Di Ripristino in Windows Server 2012 - Guida Completa</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/como-editar-las-divisiones-de-tu-disco-duro-guia-paso-a-paso/"><u>Cómo Editar Las Divisiones De Tu Disco Duro: Guía Paso a Paso</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-insights-into-the-world-of-netflix-the-ultimate-streaming-giant/"><u>Comprehensive Insights Into the World of Netflix: The Ultimate Streaming Giant</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/fabletellers-fellowship-esteemed-ensemble/"><u>Fabletellers Fellowship – Esteemed Ensemble</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-offline-ios-game-selection-for-screen-time-savor/"><u>In 2024, Best Offline iOS Game Selection for Screen Time Savor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-x6withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find X6with/without a PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>In 2024, Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/make-the-most-of-your-subscription-instructions-for-projecting-apple-tvplus-on-a-chromecast-screen/"><u>Make the Most of Your Subscription: Instructions for Projecting Apple TV+ on a Chromecast Screen</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/sicherheitswarnung-fur-sdi-karten-verschuttete-karten-verhindern/"><u>Sicherheitswarnung Für SDI-Karten - Verschüttete Karten Verhindern</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-effortless-transfer-of-software-from-one-device-to-another-on-windows-11-systems/"><u>Step-by-Step: Effortless Transfer of Software From One Device to Another on Windows 11 Systems</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/top-3-cost-free-methods-to-successfully-restore-images-from-the-trash-can/"><u>Top 3 Cost-Free Methods to Successfully Restore Images From the Trash Can</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-problems-in-new-world-game-best-tips-and-tricks/"><u>Troubleshooting Connection Problems in 'New World' Game - Best Tips & Tricks</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/verlorene-dateien-nach-windows-10-build-1809-professionelle-wiederherstellungsoptionen/"><u>Verlorene Dateien Nach Windows 10 Build 1809? Professionelle Wiederherstellungsoptionen!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/wiederherstellung-geloschter-bildschirmfotos-in-windows-11-schnelllosungen-und-tipps/"><u>Wiederherstellung Gelöschter Bildschirmfotos in Windows 11 – Schnelllösungen Und Tipps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-achieving-professional-editing-without-the-price-tag-for-2024/"><u>[New] Achieving Professional Editing Without the Price Tag for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-7-economical-screen-recorders-for-pcs/"><u>[New] Top 7 Economical Screen Recorders for PCs</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725289817623-2022/"><u>最高のクリスマスギフトを見つける2022年の専門集</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-doubts-embracing-confidence-beating-imposter-syndrome-at-your-job-career-growth-hub/"><u>Conquering Doubts, Embracing Confidence: Beating Imposter Syndrome at Your Job | Career Growth Hub</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/download-premium-ai-generated-hd-wallpaper-artwork-for-your-screen-featuring-the-ultimate-showdown-marvels-avengers-endgame/"><u>Download Premium AI-Generated HD Wallpaper Artwork for Your Screen, Featuring the Ultimate Showdown – Marvel's Avengers Endgame.</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-lack-of-audio-post-windows-10-upgrade-simple-fixes/"><u>Resolved: Lack of Audio Post-Windows 10 Upgrade – Simple Fixes!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-synergy-maximizing-impact-on-facebook-twitter-instagram-and-youtube-channels/"><u>Social Media Synergy: Maximizing Impact on Facebook, Twitter, Instagram and YouTube Channels.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-best-mp4-devices-roundup/"><u>The Best MP4 Devices Roundup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-x50i-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor X50i Android SIM Unlock APK</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-gaming-galore-top-websites-to-download-games/"><u>Updated 2024 Approved Gaming Galore Top Websites to Download Games</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-security-essentials-a-comprehensive-guide-to-preventing-virus-and-malware-attacks-by-yl-computing-solutions/"><u>Windows Security Essentials: A Comprehensive Guide to Preventing Virus and Malware Attacks by YL Computing Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LYRX MAC Karaoke Studio + Party Tyme Streaming Integration Now Available | Get the Latest Version 1.1 Today!
-date: 2024-11-30T00:41:06.387Z
-updated: 2024-12-01T03:01:36.496Z
+date: 2024-12-01T19:25:52.526Z
+updated: 2024-12-08T22:02:08.934Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Updated In LYRX Version 1.1
@@ -53,7 +53,7 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 **_Existing LYRX owners should download and install the free trial to overwrite and update their existing version (no activation required)_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX Version 1.1 Image Gallery
@@ -61,13 +61,13 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 [![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?resize=495%2C400&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?resize=495%2C400&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot1.png?fit=1030%2C644&ssl=1 "LYRX V1.1 Screenshot")[![LYRX Screen Shot Settings 2](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot4.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 2")![LYRX Screen Shot Settings 2](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot4.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 2")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot4.png?fit=1030%2C644&ssl=1 "LYRX Text, Image And Video Overlays")[![LYRX Screen Shot Settings 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot3.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 1")![LYRX Screen Shot Settings 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot3.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot3.png?fit=1030%2C644&ssl=1 "LYRX Video Link Feature")[![Party Tyme karaoke on-screen lyrics](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot2.png?resize=495%2C400&ssl=1 "Party Tyme karaoke on-screen lyrics")![Party Tyme karaoke on-screen lyrics](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot2.png?resize=495%2C400&ssl=1 "Party Tyme karaoke on-screen lyrics")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot2.png?fit=1030%2C644&ssl=1 "Party Tyme Karaoke On-Screen Lyrics")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about LYRX **karaoke software for MAC**, or the new Party Tyme **Karaoke Subscription**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,22 +89,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/lyrxpartytyme-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerating-learning-in-lut-design/"><u>[New] Accelerating Learning in LUT Design</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-obs-streaming-windows-and-mac-guide/"><u>[Updated] 2024 Approved OBS Streaming [Windows and Mac Guide]</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlock-crystal-clear-facebook-video-on-android/"><u>[Updated] 2024 Approved Unlock Crystal-Clear Facebook Video on Android</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-the-impact-of-outdoor-videos-live-streams-via-periscopefacebook-for-2024/"><u>[Updated] Maximizing the Impact of Outdoor Videos Live Streams via Periscope/Facebook for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728461939057-windows/"><u>「Windows系列中的還原技術：如何在不同版本上恢復壓縮文件」</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cut-down-chaos-learning-background-erasure-with-photopea/"><u>Cut Down Chaos Learning Background Erasure with Photopea</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/data-restoration-techniques-how-to-retrieve-files-post-format-on-windows-10-8-and-7/"><u>Data Restoration Techniques: How to Retrieve Files Post-Format on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-perfection-v39-printer-driver-for-windows-7-8-and-10-free/"><u>Download Epson Perfection V39 Printer Driver for Windows 7, 8 & 10 - Free</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/foto-wiederherstellung-aus-adobe-photoshop-lightroom-schritt-fur-schritt-anleitungen/"><u>Foto Wiederherstellung Aus Adobe Photoshop Lightroom - Schritt-Für-Schritt Anleitungen</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/geheime-tipps-zur-wiederherstellung-geloschter-pln-dateien-lernen-sie-wie-bei-myrecover/"><u>Geheime Tipps Zur Wiederherstellung Gelöschter PLN-Dateien - Lernen Sie Wie Bei MyRecover</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gpt-based-winxvideo-ai-aumenta-la-velocita-di-conversione-dei-file-audio-e-video-con-le-capacita-della-gpu/"><u>GPT-Based Winxvideo AI: Aumenta La Velocità Di Conversione Dei File Audio E Video Con Le Capacità Della GPU</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-essence-of-shareable-humorous-content/"><u>In 2024, The Essence of Shareable Humorous Content</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/meet-nelly-yu-a-glimpse-into-the-life-of-an-acclaimed-author/"><u>Meet Nelly Yu: A Glimpse Into the Life of an Acclaimed Author</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tutorial-menjelaskan-pemulihan-aplikasi-iphone-terkait-cadangan-itunes/"><u>Tutorial Menjelaskan Pemulihan Aplikasi iPhone Terkait Cadangan iTunes</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-aomei-pxe-boot-utility-essential-questions-answered-for-effective-usage/"><u>Understanding Aomei PXE Boot Utility: Essential Questions Answered for Effective Usage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/voice-messaging-made-simple-a-comprehensive-guide-for-iphone-users/"><u>Voice Messaging Made Simple - A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728483956375-outlookgmail/"><u>オフィスツール連携：OutlookにGmailアカウントを追加する効果的な方法</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-post-a-video-between-twitter-and-tumblr/"><u>2024 Approved How to Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comprehensive-review-of-control-panel-configurations-for-effective-window-handling-your-learning-source/"><u>Comprehensive Review of Control Panel Configurations for Effective Window Handling - Your Learning Source</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-breakthroughs-revealed-at-wwdc-2024/"><u>Exploring Every Aspect of Apple’s AI Breakthroughs Revealed at WWDC 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-your-non-working-audio-device-with-tips-from-yl-software-experts/"><u>How to Fix Your Non-Working Audio Device with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-your-pcs-display-issue-with-graphics-card-on-windows-expert-tips-by-yl-computing/"><u>How To Fix Your PC's Display Issue with Graphics Card on Windows - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-m6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco M6 Pro 5G Devices</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/sizzling-dinner-and-mixology-tunes-with-dj-maestro-jason-your-ultimate-evening-guide-partyinstyle/"><u>Sizzling Dinner & Mixology Tunes with DJ Maestro Jason - Your Ultimate Evening Guide! #PartyInStyle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-document-creation-in-word-via-chatgpt/"><u>Streamline Document Creation in Word via ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/649611-9780307788160-the-dead-are-alive/"><u>The Dead Are Alive | Free Book</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/the-milestone-year-how-and-when-china-entered-wto-membership-in-2001-insights-by-yl-computing/"><u>The Milestone Year: How and When China Entered WTO Membership in 2001 - Insights by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-configuration-stuck-heres-how-you-can-fix-it-effectively/"><u>Windows Configuration Stuck? Here's How You Can Fix It Effectively!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-comprehensive-analysis-of-the-ultimate-framework-chromebook-a-revolutionary-blend-of-durability-and-longevity/"><u>ZDNet's Comprehensive Analysis of the Ultimate Framework Chromebook - A Revolutionary Blend of Durability and Longevity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2024-11-30T07:44:05.641Z
-updated: 2024-11-30T21:39:25.186Z
+date: 2024-12-03T21:35:37.335Z
+updated: 2024-12-09T13:18:30.045Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,19 +61,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/1-come-eliminare-correttamente-i-file-desktop-dopo-un-riavvio-del-computer/"><u>1. Come Eliminare Correttamente I File Desktop Dopo Un Riavvio Del Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-3d-modeling-software-to-use-for-animation/"><u>2024 Approved 3D Modeling Software to Use for Animation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leading-mp4-to-facebook-mover/"><u>2024 Approved Leading MP4 to Facebook Mover</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/3-most-effective-methods-for-retrieving-lost-data-on-your-iphone-7/"><u>3 Most Effective Methods for Retrieving Lost Data on Your iPhone 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-solutions-for-invalid-or-incompatible-drivers-on-your-windows-machine/"><u>Effective Solutions for Invalid or Incompatible Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-productivity-with-the-sabrent-compact-mouse-precision-meets-cable-free-portability/"><u>Enhance Your Productivity with the Sabrent Compact Mouse - Precision Meets Cable-Free Portability!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/explore-superior-data-protection-tools-find-your-ideal-alternative-to-novabackup-with-aomei-backupper-on-modern-operating-systems/"><u>Explore Superior Data Protection Tools: Find Your Ideal Alternative to NovaBACKUP with AOMEI Backupper on Modern Operating Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ultimate-selection-affordable-hd-cams-for-sports/"><u>In 2024, Ultimate Selection Affordable HD Cams for Sports</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/steps-for-transferring-vmware-esxi-hosts-between-vcenters/"><u>Steps for Transferring VMware ESXi Hosts Between vCenters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-and-science-of-paperclip-optimization-in-ais-ecosystem/"><u>The Art and Science of Paperclip Optimization in AI's Ecosystem</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unable-to-locate-the-webpage-access-denied-404/"><u>Unable to Locate the Webpage - Access Denied (404)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oppo-find-x6-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Find X6 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/vmware-vcenter-sync-issue-solutions-troubleshooting-tips-for-host-communication-errors/"><u>VMware vCenter Sync Issue Solutions: Troubleshooting Tips for Host Communication Errors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-easy-steps-to-locate-recently-viewed-videos-by-you-on-fb/"><u>[New] 2024 Approved Easy Steps to Locate Recently Viewed Videos by You on FB</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-effortlessly-upload-your-imovie-masterpieces-to-vimeo/"><u>[Updated] 2024 Approved Effortlessly Upload Your iMovie Masterpieces to Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dji-takes-flight-the-game-changing-faceoff-of-mavic-air-vs-spark/"><u>[Updated] DJI Takes Flight The Game-Changing Faceoff of Mavic Air Vs. Spark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223065973-2024-10/"><u>2024년 제공하는 가장 좋은 무료 음악 편집 소품 10대 목록</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaatgpt-in-action-6-techniques-transforming-remote-work/"><u>ChaatGPT in Action: 6 Techniques Transforming Remote Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-photography-incorporating-accurate-dates/"><u>Digital Photography Incorporating Accurate Dates</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/download-stunning-real-madrid-themed-walls-hd-photo-backgrounds-extensive-imagery-library-curated-by-yl-software-solutions/"><u>Download Stunning Real Madrid Themed Walls, HD Photo Backgrounds - Extensive Imagery Library Curated by YL Software Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/iphone-lights-mastery-guide/"><u>IPhone Lights Mastery Guide</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-changing-your-password-via-control-panel-solutions-by-yl-computing/"><u>Step-by-Step Guide: Changing Your Password via Control Panel - Solutions by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tackling-computer-overheating-effectively-with-tips-from-yl-software-experts/"><u>Tackling Computer Overheating Effectively with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/techniques-de-sauvegarde-incrementielle-et-differentielle-pour-les-utilisateurs-de-windows-11-strategies-efficaces/"><u>Techniques De Sauvegarde Incrémentielle Et Différentielle Pour Les Utilisateurs De Windows 11 : Stratégies Efficaces</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
 </ul></div>
 

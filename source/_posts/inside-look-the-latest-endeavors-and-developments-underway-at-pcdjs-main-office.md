@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2024-11-27T06:00:11.341Z
-updated: 2024-11-30T23:29:02.705Z
+date: 2024-12-08T10:28:30.760Z
+updated: 2024-12-09T03:59:48.820Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,15 +60,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ensuring-earning-potential-on-youtubers/"><u>[New] 2024 Approved Ensuring Earning Potential on YouTubers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-avoiding-zoom-call-blunders-smart-filters-usage-for-2024/"><u>[New] Avoiding Zoom Call Blunders Smart Filters Usage for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-experience-the-pinnacle-of-free-fb-image-and-vfx-crafting-for-2024/"><u>[Updated] Experience the Pinnacle of Free FB Image and VFX Crafting for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/automate-your-disk-clean-up-smart-ways-to-optimize-storage-in-windows-10/"><u>Automate Your Disk Clean-Up: Smart Ways to Optimize Storage in Windows 10</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/die-top-3-beste-clone-software-fur-sandisk-ssds-test-und-empfehlung/"><u>Die Top-3-Beste Clone-Software Für Sandisk SSDs: Test Und Empfehlung</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/quick-guide-how-to-set-up-a-bootable-clone-on-your-windows-pertama-platform-using-safe-boot-feature/"><u>Quick Guide: How to Set Up a Bootable Clone on Your Windows Pertama Platform Using Safe Boot Feature</u></a></li>
-<li><a href="https://win-popular.techidaily.com/windows-11-professionelle-losung-zum-sicheren-klonen-von-gpt-datenplatten/"><u>Windows 11: Professionelle Lösung Zum Sicheren Klonen Von GPT-Datenplatten</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728483151101-windows-7hdd/"><u>Windows 7における異なるHDDへのシステムイメージ移行手順</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/elving-into-how-t-series-earnings-work-on-youtube-for-2024/"><u>[New] Delving Into How T-Series Earnings Work on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-youtube-potential-idea-generation-guide/"><u>[New] Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[Updated] From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-unorganized-to-organized-music-youtubes-magic/"><u>[Updated] In 2024, From Unorganized to Organized Music Youtube's Magic</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>2024 Approved Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-a-non-booting-pc-expert-tips-from-yl-computing/"><u>How to Fix a Non-Booting PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/retro-revival-simple-steps-to-achieve-vhs-style-in-fcp-for-2024/"><u>Retro Revival Simple Steps to Achieve VHS Style in FCP for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/syncing-songs-safely-with-insta-rules/"><u>Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-a-step-by-step-guide-to-bypass-persistent-updates-screen/"><u>Troubleshooting Microsoft Flight Simulator 2020 – A Step-by-Step Guide to Bypass Persistent Updates Screen</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unveiling-the-root-factors-a-deep-dive-into-the-triggers-behind-the-taiping-rebellion/"><u>Unveiling the Root Factors: A Deep Dive Into the Triggers Behind the Taiping Rebellion</u></a></li>
 </ul></div>
 

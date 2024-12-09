@@ -1,7 +1,7 @@
 ---
 title: Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!
-date: 2024-11-28T05:43:33.163Z
-updated: 2024-12-01T07:24:02.747Z
+date: 2024-12-04T11:19:46.642Z
+updated: 2024-12-09T07:35:18.339Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,14 +87,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-online-tools-discovering-the-top-10-dynamic-image-changers/"><u>2024 Approved Best Online Tools Discovering the Top 10 Dynamic Image Changers</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728482954613-windows-111087usbssd/"><u>安心して実行可能! Windows 11、10、8、7向けUSBからSSDへの層化複製方法【最新ツアー】</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effective-ways-to-reduce-your-music-library-size-on-spotify/"><u>Effective Ways to Reduce Your Music Library Size on Spotify</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/enhance-your-laptops-speed-with-our-asus-zenbook-solid-state-drive-installation-tutorial/"><u>Enhance Your Laptop's Speed with Our ASUS ZenBook Solid State Drive Installation Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-plus-how-to-unlock-a-disabled-iphone-8-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 Plus How to Unlock a Disabled iPhone 8 Plus?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/losung-fur-iphone-probleme-beim-startbildschirm-des-apple-logos/"><u>Lösung Für iPhone-Probleme Beim Startbildschirm Des Apple Logos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/satellite-enabled-emergency-messaging-on-the-revolutionary-new-google-pixel-9-a-game-changer-in-crisis-communications/"><u>Satellite-Enabled Emergency Messaging on the Revolutionary New Google Pixel 9: A Game-Changer in Crisis Communications</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/symphony-silhouette-audio-studio-mac/"><u>Symphony Silhouette Audio Studio Mac</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshoot-your-stalled-windows-10-updates-with-these-5-proven-methods/"><u>Troubleshoot Your Stalled Windows 10 Updates with These 5 Proven Methods!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iconic-nintendo-switch-fighting-game-series-max-156-for-2024/"><u>[Updated] Iconic Nintendo Switch Fighting Game Series (Max 156) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dominating-the-igtv-space-a-guide-to-massive-viewership-growth/"><u>[Updated] In 2024, Dominating the IGTV Space A Guide to Massive Viewership Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-capture-face-off-battle-of-the-best-obs-or-bandicam-for-2024/"><u>[Updated] Screen Capture Face-Off Battle of the Best, OBS or Bandicam for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-video-editing-on-windows-11-platform/"><u>2024 Approved Seamless Video Editing on Windows 11 Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-for-overcoming-windows-update-error-0x80240017/"><u>Comprehensive Troubleshooting for Overcoming Windows Update Error 0X80240017</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/decoding-the-clashes-how-did-chinas-internal-strife-originate-an-analysis-from-yl-tech-yl-computing/"><u>Decoding the Clashes: How Did China’s Internal Strife Originate? An Analysis From YL Tech | YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/fast-track-document-scanning-with-yl-softwares-strategies-to-speed-up-scanner-efficiency/"><u>Fast-Track Document Scanning with YL Software's Strategies to Speed Up Scanner Efficiency</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-can-you-identify-and-fix-sound-card-issues-on-your-windows-pc/"><u>How Can You Identify and Fix Sound Card Issues on Your Windows PC?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-a-non-starting-computer-guide-from-yls-leading-technology-professionals/"><u>How to Fix a Non-Starting Computer: Guide From YL's Leading Technology Professionals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-11-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-with-toms-hardware-in-depth-analysis-and-advice/"><u>Navigating Technology with Tom's Hardware: In-Depth Analysis & Advice</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-computer-sluggishness-from-excessive-background-processes-tips-and-tricks-yl-tech-solutions/"><u>Resolving Computer Sluggishness From Excessive Background Processes: Tips & Tricks - YL Tech Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-windows-11-performance-tuning-manual-boosting-your-dex-3dex-3-relyrx-systems/"><u>Ultimate Windows 11 Performance Tuning Manual: Boosting Your DEX 3/DEX 3 RE/LYRX Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-users-rejoice-learn-the-easy-way-to-use-imessage-on-windows-by-following-this-zdnet-expert-advice/"><u>Windows Users Rejoice! Learn the Easy Way to Use iMessage on Windows by Following This ZDNet Expert Advice</u></a></li>
 </ul></div>
 
