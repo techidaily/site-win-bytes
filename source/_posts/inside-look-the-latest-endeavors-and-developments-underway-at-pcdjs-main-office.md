@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2024-12-08T10:28:30.760Z
-updated: 2024-12-09T03:59:48.820Z
+date: 2024-12-09T16:09:40.703Z
+updated: 2024-12-15T16:08:26.655Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/elving-into-how-t-series-earnings-work-on-youtube-for-2024/"><u>[New] Delving Into How T-Series Earnings Work on Youtube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-youtube-potential-idea-generation-guide/"><u>[New] Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[Updated] From Watch List to Download YouTube Playlist in Minutes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-unorganized-to-organized-music-youtubes-magic/"><u>[Updated] In 2024, From Unorganized to Organized Music Youtube's Magic</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a05-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A05</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>2024 Approved Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deciphering-complete-fbm-call-transcripts-guide/"><u>[New] Deciphering Complete FBM Call Transcripts Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>[New] In 2024, Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[New] The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-diy-guide-converting-tiktok-tracks-into-mobile-alarms/"><u>[Updated] In 2024, DIY Guide Converting TikTok Tracks Into Mobile Alarms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-explore-the-highest-rated-virtual-reality-games/"><u>[Updated] In 2024, Explore the Highest-Rated Virtual Reality Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-2019-game-changer-in-vegaspro/"><u>[Updated] The 2019 Game-Changer in VegasPro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-and-shadowplay-which-streams-better/"><u>2024 Approved Obs and ShadowPlay - Which Streams Better?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deconstructing-wirecast-alternatives-uncovered/"><u>Deconstructing WireCast Alternatives Uncovered</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/how-to-fix-a-non-booting-pc-expert-tips-from-yl-computing/"><u>How to Fix a Non-Booting PC: Expert Tips From YL Computing</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/retro-revival-simple-steps-to-achieve-vhs-style-in-fcp-for-2024/"><u>Retro Revival Simple Steps to Achieve VHS Style in FCP for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/syncing-songs-safely-with-insta-rules/"><u>Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tackling-computer-overheating-effectively-with-tips-from-yl-software-experts/"><u>Tackling Computer Overheating Effectively with Tips From YL Software Experts</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-a-step-by-step-guide-to-bypass-persistent-updates-screen/"><u>Troubleshooting Microsoft Flight Simulator 2020 – A Step-by-Step Guide to Bypass Persistent Updates Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-overcoming-persistent-pause-issues-on-samsung-dvd-devices/"><u>Troubleshooting Guide: Overcoming Persistent Pause Issues on Samsung DVD Devices</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
 <li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unveiling-the-root-factors-a-deep-dive-into-the-triggers-behind-the-taiping-rebellion/"><u>Unveiling the Root Factors: A Deep Dive Into the Triggers Behind the Taiping Rebellion</u></a></li>
 </ul></div>
 

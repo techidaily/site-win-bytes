@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production
-date: 2024-12-05T17:01:07.207Z
-updated: 2024-12-08T19:41:13.377Z
+date: 2024-12-11T16:30:43.426Z
+updated: 2024-12-15T16:45:09.704Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ A ‘bar’ is also known as a measure and consists of 4 consecutive beats — a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New in DEX 3.20: Automatic Down-Beat & Bar Detection
@@ -45,13 +45,13 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 [![DEX 3 Beat Grid Editor](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How is it Done?
@@ -65,7 +65,7 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 5. That it. That’s how beat-grid editing works for a track in DEX 3.20 (and up). For songs that have a varying dynamic tempo (such as live-playing bands) or different parts/sections that have a different BPM/beat-grid you can add as many beat-grids throughout the track as you’d like
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20
@@ -91,7 +91,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,18 +113,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creative-components-free-youtube-visual-resources-for-2024/"><u>[New] Creative Components FREE YouTube Visual Resources for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-extensive-review-the-360-degree-capture-of-samsung-for-2024/"><u>[Updated] Extensive Review The 360-Degree Capture of Samsung for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-gaming-to-adventure-the-power-of-the-new-polaroid-xs-100i/"><u>[Updated] In 2024, From Gaming to Adventure, the Power of the New Polaroid XS 100I</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/download-premium-ai-generated-hd-wallpaper-artwork-for-your-screen-featuring-the-ultimate-showdown-marvels-avengers-endgame/"><u>Download Premium AI-Generated HD Wallpaper Artwork for Your Screen, Featuring the Ultimate Showdown – Marvel's Avengers Endgame.</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-lava-blaze-2-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Lava Blaze 2?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/streamlining-your-computers-launch-sequence-expert-advice-by-yl-computing-tailored-booting-techniques-by-yl-software/"><u>Streamlining Your Computer's Launch Sequence - Expert Advice by YL Computing | Tailored Booting Techniques by YL Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/uncover-the-ideal-live-sports-streaming-sites-your-definitive-guide/"><u>Uncover the Ideal Live Sports Streaming Sites – Your Definitive Guide!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-12-superior-cameras-for-exceptional-vlogging/"><u>Unveiling 12 Superior Cameras for Exceptional Vlogging</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973418942-update-your-windows-laptop-with-the-newest-pl2303-drivers-available-now/"><u>Update Your Windows Laptop with the Newest PL2303 Drivers Available Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>[New] 2024 Approved Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-achieve-harmony-import-audio-to-your-inshot-clips-for-2024/"><u>[New] Achieve Harmony Import Audio to Your InShot Clips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-offer-lessons-for-preparing-nutritious-recipes/"><u>Does ChatGPT Offer Lessons for Preparing Nutritious Recipes?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-check-graphics-card-and-operating-system-matchup-tips-from-yl-software-experts/"><u>How To Check Graphics Card & Operating System Matchup - Tips From YL Software Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebook-page-identity-transformation/"><u>Mastering Facebook Page Identity Transformation</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-addressing-and-correcting-the-jittery-playback-in-halo-infinite/"><u>Step-by-Step: Addressing and Correcting the Jittery Playback in Halo Infinite</u></a></li>
 </ul></div>
 
