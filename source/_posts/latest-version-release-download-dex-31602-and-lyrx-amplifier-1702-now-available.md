@@ -1,7 +1,7 @@
 ---
 title: Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!
-date: 2024-12-14T16:02:07.807Z
-updated: 2024-12-15T16:16:03.668Z
+date: 2024-12-17T05:36:41.425Z
+updated: 2024-12-24T04:54:24.897Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-learn-quickly-youtube-audio-to-high-quality-mp3-on-mac-os/"><u>[New] Learn Quickly YouTube Audio to High-Quality MP3 on Mac OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[Updated] From Low-Res to HD Your First Foray Into Frame Rates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-intensified-interaction-through-advanced-zoom-settings/"><u>2024 Approved Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/analyzing-the-impact-unveiling-consequences-of-the-great-leap-forward-insights-by-yl-computing-and-software-solutions/"><u>Analyzing the Impact: Unveiling Consequences of the Great Leap Forward - Insights by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/can-windows-defender-effectively-eliminate-malware-expert-insights-by-yl-computing/"><u>Can Windows Defender Effectively Eliminate Malware? Expert Insights by YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-strategies-for-choosing-best-fpv-drone-blades-for-2024/"><u>Cutting-Edge Strategies for Choosing Best FPV Drone Blades for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/easy-guide-modifying-your-graphics-card-options-tips-from-yl-computing-and-yl-software/"><u>Easy Guide: Modifying Your Graphics Card Options - Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-xbox-live-streaming-setup/"><u>Essential Tips for Xbox Live Streaming Setup</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/free-online-karaoke-showcase-the-karaoke-summit-join-the-streaming-experience-at-1-pm-est-today/"><u>Free Online Karaoke Showcase: The Karaoke Summit – Join the Streaming Experience at 1 PM EST Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970878588-how-to-quickly-secure-latest-nvidia-drivers-for-your-windows-10-pc-step-by-step-instructions-and-links/"><u>How to Quickly Secure Latest NVIDIA Drivers for Your Windows 10 PC: Step-by-Step Instructions and Links!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/peaceful-mind-visuals-yl-softwares-collection-of-meditative-background-imagery-for-relaxation-and-focus/"><u>Peaceful Mind Visuals: YL Software’s Collection of Meditative Background Imagery for Relaxation and Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-access-tackling-onedrive-logins-in-windows/"><u>Reviving Access: Tackling OneDrive Logins in Windows</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/revolutionize-your-dj-library-with-the-ultimate-karaoke-file-renamer-tool/"><u>Revolutionize Your DJ Library with the Ultimate Karaoke File Renamer Tool</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/sizzling-dinner-and-mixology-tunes-with-dj-maestro-jason-your-ultimate-evening-guide-partyinstyle/"><u>Sizzling Dinner & Mixology Tunes with DJ Maestro Jason - Your Ultimate Evening Guide! #PartyInStyle</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-ultimate-guide-by-yl-software-restoring-and-repairing-compromised-hard-drives/"><u>The Ultimate Guide by YL Software: Restoring and Repairing Compromised Hard Drives</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gamepad-options-to-boost-performance/"><u>Top Gamepad Options to Boost Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-indavideo-video-extractor-simple-steps-to-grab-your-favorites/"><u>Top-Rated Indavideo Video Extractor: Simple Steps to Grab Your Favorites</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unseen-scanner-issue-why-your-scanner-doesnt-appear-in-device-manager-expert-guide-by-yl-computing/"><u>Unseen Scanner Issue: Why Your Scanner Doesn't Appear in Device Manager - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-limitation-on-messages-and-responses/"><u>Unveiling ChatGPT's Limitation on Messages and Responses</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-find-youtube-collaboration-partners-for-2024/"><u>[New] How to Find YouTube Collaboration Partners for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[New] The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-staying-above-copyright-infringement-insta-watermarks-explained/"><u>[Updated] In 2024, Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/black-shark-5-pro-gaming-mouse-assessment-advanced-features-unveiled-techreview/"><u>Black Shark 5 Pro Gaming Mouse Assessment: Advanced Features Unveiled | TechReview</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/boost-your-computers-speed-and-performance-is-an-upgrade-what-you-need-insights-from-yl-software-experts/"><u>Boost Your Computer's Speed and Performance: Is an Upgrade What You Need? Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensively-understanding-wm6-setup/"><u>Comprehensively Understanding WM6 Setup</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/easy-ways-to-resize-text-on-your-screen-in-windows-11-with-yl-software-solutions/"><u>Easy Ways to Resize Text on Your Screen in Windows 11 with YL Software Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/evaluating-the-reliability-of-gratis-windows-registry-cleaners-expert-advice-by-yl-software-team/"><u>Evaluating the Reliability of Gratis Windows Registry Cleaners – Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exclusive-dj-membership-access-new-karaoke-tracks-and-song-selection-guide-updated-feb-28th-2na/"><u>Exclusive DJ Membership Access: New Karaoke Tracks & Song Selection Guide | Updated Feb 28Th, 2N/A!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-file-and-folder-attributes-on-windows-a-comprehensive-guide-yl-software-solutions/"><u>Exploring File and Folder Attributes on Windows: A Comprehensive Guide - YL Software Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-world-of-warcraft-unable-to-open-errors-on-pc-solutions-that-work/"><u>Fixing 'World of Warcraft Unable to Open' Errors on PC - Solutions That Work!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-pitched-whirring-solutions-for-lowering-computer-cooling-system-speeds-advice-from-yl-software-experts/"><u>High-Pitched Whirring: Solutions for Lowering Computer Cooling System Speeds - Advice From YL Software Experts</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-detailed-breakdown-of-youtube-money/"><u>In 2024, The Detailed Breakdown of YouTube Money</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/setting-up-your-own-crypto-exchange-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Your Own Crypto Exchange: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-uploading-dvd-files-to-your-google-drive-account/"><u>Step-by-Step Instructions for Uploading DVD Files to Your Google Drive Account</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tailoring-your-windows-11-experience-a-step-by-step-guide-to-personalizing-your-desktop-expert-tips-by-yl-computing/"><u>Tailoring Your Windows 11 Experience: A Step-by-Step Guide to Personalizing Your Desktop - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-6-figure-videos-top-hashtag-trends/"><u>Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-computings-guide-mastering-parental-controls-on-windows-11-an-essential-walkthrough/"><u>YL Computing's Guide: Mastering Parental Controls on Windows 11 - An Essential Walkthrough</u></a></li>
 </ul></div>
 

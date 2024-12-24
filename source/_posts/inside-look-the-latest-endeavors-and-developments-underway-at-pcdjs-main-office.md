@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2024-12-09T16:09:40.703Z
-updated: 2024-12-15T16:08:26.655Z
+date: 2024-12-21T02:23:35.387Z
+updated: 2024-12-23T22:23:19.091Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-deciphering-complete-fbm-call-transcripts-guide/"><u>[New] Deciphering Complete FBM Call Transcripts Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>[New] In 2024, Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>[New] The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-diy-guide-converting-tiktok-tracks-into-mobile-alarms/"><u>[Updated] In 2024, DIY Guide Converting TikTok Tracks Into Mobile Alarms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-explore-the-highest-rated-virtual-reality-games/"><u>[Updated] In 2024, Explore the Highest-Rated Virtual Reality Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-2019-game-changer-in-vegaspro/"><u>[Updated] The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-and-shadowplay-which-streams-better/"><u>2024 Approved Obs and ShadowPlay - Which Streams Better?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/deconstructing-wirecast-alternatives-uncovered/"><u>Deconstructing WireCast Alternatives Uncovered</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-fix-a-non-booting-pc-expert-tips-from-yl-computing/"><u>How to Fix a Non-Booting PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tackling-computer-overheating-effectively-with-tips-from-yl-software-experts/"><u>Tackling Computer Overheating Effectively with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-overcoming-persistent-pause-issues-on-samsung-dvd-devices/"><u>Troubleshooting Guide: Overcoming Persistent Pause Issues on Samsung DVD Devices</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] 2024 Approved Quick Guide to Planning Google Meet Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mp4-devices/"><u>[Updated] The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-and-compact-the-ultimate-samsung-galaxy-s10e-assessment/"><u>Budget-Friendly and Compact: The Ultimate Samsung Galaxy S10e Assessment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capture-and-customize-like-a-pro-with-these-8-editing-tools-iphoneandroid/"><u>Capture & Customize Like a Pro with These 8 Editing Tools (iPhone/Android)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-all-in-one-printer-compatibility-with-windows-free-drivers-available/"><u>HP All-in-One Printer Compatibility with Windows - Free Drivers Available</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-m1-macbook-air-video-editors-dream-machine/"><u>In 2024, M1 MacBook Air Video Editor's Dream Machine?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-generated-text/"><u>New What Is AI Generated Text?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-against-detection-assumptions/"><u>Scrutinizing Trust in ZeroGPT Against Detection Assumptions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleashing-the-full-potential-of-free-countdown-tools/"><u>Unleashing the Full Potential of Free Countdown Tools</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-security-essentials-a-comprehensive-guide-to-preventing-virus-and-malware-attacks-by-yl-computing-solutions/"><u>Windows Security Essentials: A Comprehensive Guide to Preventing Virus and Malware Attacks by YL Computing Solutions</u></a></li>
 </ul></div>
 

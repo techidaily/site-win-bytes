@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production
-date: 2024-12-11T16:30:43.426Z
-updated: 2024-12-15T16:45:09.704Z
+date: 2024-12-17T17:26:29.538Z
+updated: 2024-12-24T13:00:02.553Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ A ‘bar’ is also known as a measure and consists of 4 consecutive beats — a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New in DEX 3.20: Automatic Down-Beat & Bar Detection
@@ -45,13 +45,13 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 [![DEX 3 Beat Grid Editor](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How is it Done?
@@ -65,7 +65,7 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 5. That it. That’s how beat-grid editing works for a track in DEX 3.20 (and up). For songs that have a varying dynamic tempo (such as live-playing bands) or different parts/sections that have a different BPM/beat-grid you can add as many beat-grids throughout the track as you’d like
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20
@@ -91,7 +91,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,14 +113,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>[New] 2024 Approved Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-achieve-harmony-import-audio-to-your-inshot-clips-for-2024/"><u>[New] Achieve Harmony Import Audio to Your InShot Clips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-chatgpt-offer-lessons-for-preparing-nutritious-recipes/"><u>Does ChatGPT Offer Lessons for Preparing Nutritious Recipes?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-check-graphics-card-and-operating-system-matchup-tips-from-yl-software-experts/"><u>How To Check Graphics Card & Operating System Matchup - Tips From YL Software Experts</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-facebook-page-identity-transformation/"><u>Mastering Facebook Page Identity Transformation</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-addressing-and-correcting-the-jittery-playback-in-halo-infinite/"><u>Step-by-Step: Addressing and Correcting the Jittery Playback in Halo Infinite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>[Updated] 2024 Approved A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-full-screen-recovered-from-obs-errors-for-2024/"><u>[Updated] Full Screen Recovered From OBS Errors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-every-angle-samsungs-pro-versus-lgs/"><u>2024 Approved Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-budget-for-video-popularity-on-youtube/"><u>2024 Approved How to Budget for Video Popularity on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-13t-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi 13T Pro without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/best-antivirus-protection-choosing-the-right-solution-expert-advice-from-yl-computing/"><u>Best Antivirus Protection: Choosing the Right Solution - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/elevate-your-karaoke-game-exclusive-subscription-to-premium-hits-on-karaoke-cloud-pro-start-now-at-offer-id-pcdj1917/"><u>Elevate Your Karaoke Game: Exclusive Subscription to Premium Hits on Karaoke Cloud Pro - Start Now at Offer ID PCDJ1917</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-resolution-hd-wallpapers-and-desktop-icons-of-the-bentley-bentayga-plug-in-hybrid-premium-vehicle-graphics-by-yl-computing/"><u>High-Resolution HD Wallpapers & Desktop Icons of the Bentley Bentayga Plug-In Hybrid - Premium Vehicle Graphics by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-handle-incompatible-pc-components-expert-tips-from-yl-computing/"><u>How to Handle Incompatible PC Components: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>In 2024, Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pureimages-backdrop-refinement-feature/"><u>PureImage's Backdrop Refinement Feature</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-customizing-display-and-energy-management-via-windows-control-panel-yl-software-solutions/"><u>Step-by-Step Guide: Customizing Display & Energy Management via Windows Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-potential-pitfalls-a-comprehensive-guide-to-cryptocurrency-investment-risks-by-yl-computing/"><u>Understanding Potential Pitfalls: A Comprehensive Guide to Cryptocurrency Investment Risks by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: LYRX MAC Karaoke Studio + Party Tyme Streaming Integration Now Available | Get the Latest Version 1.1 Today!
-date: 2024-12-08T16:23:47.117Z
-updated: 2024-12-15T16:22:33.975Z
+date: 2024-12-17T09:37:19.357Z
+updated: 2024-12-24T05:52:05.434Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New, Changed And Updated In LYRX Version 1.1
@@ -53,7 +53,7 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 **_Existing LYRX owners should download and install the free trial to overwrite and update their existing version (no activation required)_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX Version 1.1 Image Gallery
@@ -61,13 +61,13 @@ One minor change that will surely be welcomed by [LYRX](http://lyrxkaraoke.com/)
 [![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?resize=495%2C400&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?resize=495%2C400&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot1.png?fit=1030%2C644&ssl=1 "LYRX V1.1 Screenshot")[![LYRX Screen Shot Settings 2](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot4.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 2")![LYRX Screen Shot Settings 2](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot4.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 2")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot4.png?fit=1030%2C644&ssl=1 "LYRX Text, Image And Video Overlays")[![LYRX Screen Shot Settings 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot3.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 1")![LYRX Screen Shot Settings 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot3.png?resize=495%2C400&ssl=1 "LYRX Screen Shot Settings 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot3.png?fit=1030%2C644&ssl=1 "LYRX Video Link Feature")[![Party Tyme karaoke on-screen lyrics](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot2.png?resize=495%2C400&ssl=1 "Party Tyme karaoke on-screen lyrics")![Party Tyme karaoke on-screen lyrics](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot2.png?resize=495%2C400&ssl=1 "Party Tyme karaoke on-screen lyrics")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11%5Fscreenshot2.png?fit=1030%2C644&ssl=1 "Party Tyme Karaoke On-Screen Lyrics")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about LYRX **karaoke software for MAC**, or the new Party Tyme **Karaoke Subscription**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,22 +89,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/08/lyrxpartytyme-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigate-your-way-to-perfect-content-top-12-flipscreen-cams/"><u>[New] 2024 Approved Navigate Your Way to Perfect Content Top 12 Flipscreen Cams</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-free-youtube-end-screen-templates-plushow-tos/"><u>[New] In 2024, Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-preserve-your-legacy-transforming-older-images-into-modern-videos/"><u>[New] In 2024, Preserve Your Legacy Transforming Older Images Into Modern Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-understanding-bandicam-key-facts-revealed/"><u>[New] In 2024, Understanding Bandicam - Key Facts Revealed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-free-easy-online-downloader-for-your-pin-videos/"><u>[Updated] Free, Easy Online Downloader for Your Pin Videos</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-stunning-night-sky-high-resolution-wallpapers-photo-gallery-by-yl-computing/"><u>1. Stunning Night Sky High-Resolution Wallpapers - Photo Gallery by YL Computing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-list-of-preferred-youtube-video-formats/"><u>2024 Approved The Ultimate List of Preferred YouTube Video Formats</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/bmw-e30-series-hd-wallpaper-collection-stunning-photography-graphics-and-decorative-prints-by-yl-computing/"><u>BMW E30 Series HD Wallpaper Collection - Stunning Photography, Graphics & Decorative Prints by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comparing-digital-currencies-to-conventional-cash-a-comprehensive-guide-by-yl-software/"><u>Comparing Digital Currencies to Conventional Cash: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210362173-9781640869882-conexion-con-el-universo/"><u>Conexión con el Universo | Free Book</u></a></li>
-<li><a href="https://video-capture.techidaily.com/management-strategies-for-fetal-alcohol-syndrome/"><u>Management Strategies for Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/mastering-program-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Program Management: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-red-screen-troubleshooting-for-a-smooth-windows-11-experience/"><u>Overcoming Red Screen Troubleshooting for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-setting-up-your-printer-drivers-on-windows-via-the-control-panel-tech-solutions-with-yl-software/"><u>Step-by-Step Guide: Setting Up Your Printer Drivers on Windows via the Control Panel - Tech Solutions with YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-historical-milestone-understanding-when-the-chinese-hundred-days-reform-occurred-with-yl-computing/"><u>The Historical Milestone: Understanding When the Chinese Hundred Days’ Reform Occurred with YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-your-pcs-hardware-failures-with-guidance-from-yl-software-experts/"><u>Troubleshooting Your PC's Hardware Failures with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-expand-your-karaoke-playlist-with-28-new-tracks-on-karaoke-cloud-pro-updated-april-9th/"><u>Unlimited Singing Fun: Expand Your Karaoke Playlist with 28 New Tracks on Karaoke Cloud Pro, Updated April 9Th!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-simple-routines-for-saving-instagram-stories-efficiently-for-2024/"><u>[Updated] Simple Routines for Saving Instagram Stories Efficiently for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/boost-your-systems-performance-expert-advice-on-overcoming-slowdowns-and-stalls-in-hard-drive-functionality-by-yl-software/"><u>Boost Your System's Performance: Expert Advice on Overcoming Slowdowns and Stalls in Hard Drive Functionality by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/detecting-low-ink-levels-how-to-check-your-printers-paper-supply-insights-from-yl-computing/"><u>Detecting Low Ink Levels: How to Check Your Printer's Paper Supply - Insights From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-performance-jaguar-f-pace-svr-desktop-backgrounds-by-yl-computing-yl-software-collection/"><u>High-Performance Jaguar F-Pace SVR Desktop Backgrounds by YL Computing - YL Software Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-outlining-expenses-creating-a-music-video/"><u>In 2024, Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-huggingchat-the-best-open-source-option-to-challenge-chatgpts-dominance/"><u>Mastering HuggingChat - The Best Open Source Option To Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-wallet-management-a-step-by-step-guide-to-checking-your-crypto-assets-with-yls-digital-tools/"><u>Mastering Wallet Management: A Step-by-Step Guide to Checking Your Crypto Assets with YL's Digital Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-free-rmvb-to-mp4-converter-fast-e-fai-da-te-with-videmovil/"><u>Online Free RMVB to MP4 Converter - Fast E Fai Da Te with VideMovil</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-steam-library-read-only-errors-on-pcs-with-win-11/"><u>Rectifying Steam Library Read-Only Errors on PCs with Win 11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/safe-storage-techniques-for-your-digital-assets-a-guide-by-yl-computing/"><u>Safe Storage Techniques for Your Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-secrets-of-negative-video-spinning-in-snapchat/"><u>The Secrets of Negative Video Spinning in Snapchat</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/top-tools-to-enhance-your-computers-speed-and-efficiency-a-guide-by-yl-computing/"><u>Top Tools to Enhance Your Computer's Speed & Efficiency: A Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-efficiency-boost-crafting-uwp-app-shortcuts/"><u>Windows 11 Efficiency Boost: Crafting UWP App Shortcuts</u></a></li>
 </ul></div>
 
