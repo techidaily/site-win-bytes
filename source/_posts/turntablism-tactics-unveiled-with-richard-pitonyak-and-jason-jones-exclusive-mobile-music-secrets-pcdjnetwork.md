@@ -1,7 +1,7 @@
 ---
 title: Turntablism Tactics Unveiled with Richard Pitonyak and Jason Jones | Exclusive Mobile Music Secrets | #PCDJNetwork
-date: 2024-12-19T20:21:41.532Z
-updated: 2024-12-24T10:42:28.642Z
+date: 2024-12-22T17:51:45.386Z
+updated: 2024-12-29T17:06:54.517Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-guide-for-snapchat-business/"><u>[New] Guide for Snapchat Business</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>[Updated] 2024 Approved Quick Guide to Capturing Moments During Google Meets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-video-editing-for-virality-a-comprehensive-guide-to-instagram-success/"><u>[Updated] In 2024, Video Editing for Virality A Comprehensive Guide to Instagram Success</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exploring-common-issues-leading-to-sound-card-breakdowns-with-insights-from-yl-software/"><u>Exploring Common Issues Leading to Sound Card Breakdowns with Insights From YL Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/forging-partnerships-with-brands-5-instagram-strategies-for-growth-for-2024/"><u>Forging Partnerships with Brands 5 Instagram Strategies for Growth for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-performance-jaguar-f-pace-svr-desktop-backgrounds-by-yl-computing-yl-software-collection/"><u>High-Performance Jaguar F-Pace SVR Desktop Backgrounds by YL Computing - YL Software Collection</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-manage-multiple-accounts-via-your-systems-registry-insights-by-yl-computing/"><u>How to Manage Multiple Accounts via Your System's Registry - Insights by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/macs-top-mp4-cutters-for-youtube-success/"><u>Mac's Top MP4 Cutters for YouTube Success</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/safe-storage-techniques-for-your-digital-assets-a-guide-by-yl-computing/"><u>Safe Storage Techniques for Your Digital Assets: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-common-ipadiphone-keyboard-problems-and-how-to-solve-them/"><u>Six Common iPad/iPhone Keyboard Problems and How to Solve Them</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-real-time-security-features-of-windows-defender-by-yl-software-experts/"><u>Understanding Real-Time Security Features of Windows Defender by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-event-ready-top-dj-templates-download-guide-for-2024/"><u>[New] Event-Ready Top DJ Templates Download Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-video-editing-youtube-tunes-in-imovie-for-2024/"><u>[New] Transform Your Video Editing YouTube Tunes in iMovie for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[Updated] In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-free-openai-inspired-ais-outside-of-sora/"><u>Explore Free, OpenAI-Inspired AIs Outside of Sora</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-pitched-whirring-solutions-for-lowering-computer-cooling-system-speeds-advice-from-yl-software-experts/"><u>High-Pitched Whirring: Solutions for Lowering Computer Cooling System Speeds - Advice From YL Software Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-gt-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 GT Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/optimize-with-cookiebot-next-level-analytics-and-personalization-power/"><u>Optimize With Cookiebot: Next-Level Analytics and Personalization Power</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/revamp-your-pcs-look-changing-wallpaper-in-windows-control-panel-with-yl-software-expertise/"><u>Revamp Your PC's Look: Changing Wallpaper in Windows Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-the-dynamics-of-digital-asset-prices-with-yl-softwares-analytical-approach-to-cryptocurrency-valuation/"><u>Understanding the Dynamics of Digital Asset Prices with YL Software's Analytical Approach to Cryptocurrency Valuation</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-the-potential-pitfalls-and-safeguards-in-data-recovery-exploring-insights-from-yl-computings-experts/"><u>Understanding the Potential Pitfalls and Safeguards in Data Recovery - Exploring Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-affordable-karaoke-cloud-pro-no-more-expensive-outings/"><u>Unlimited Singing Fun: Affordable Karaoke Cloud Pro - No More Expensive Outings!</u></a></li>
 </ul></div>
 

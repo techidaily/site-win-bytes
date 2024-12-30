@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2024-12-18T22:25:12.272Z
-updated: 2024-12-24T04:28:14.086Z
+date: 2024-12-24T19:27:21.272Z
+updated: 2024-12-30T00:08:59.288Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-deep-dive-into-freeweb-recorder-v2-interface/"><u>[New] 2024 Approved Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>[Updated] Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elite-methods-for-streaming-and-preserving-sports-action/"><u>2024 Approved Elite Methods for Streaming and Preserving Sports Action</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/bmw-e30-series-hd-wallpaper-collection-stunning-photography-graphics-and-decorative-prints-by-yl-computing/"><u>BMW E30 Series HD Wallpaper Collection - Stunning Photography, Graphics & Decorative Prints by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comparing-digital-currencies-to-conventional-cash-a-comprehensive-guide-by-yl-software/"><u>Comparing Digital Currencies to Conventional Cash: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-wrist-tech-why-you-might-prefer-a-google-pixel-watch-over-an-apple-watch-series-8/"><u>Comparing Wrist Tech: Why You Might Prefer a Google Pixel Watch over an Apple Watch Series 8</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mastering-youtube-metrics-for-earning-livelihoods/"><u>In 2024, Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-podcast-openings-unveiled-scripted-appeals/"><u>In 2024, Podcast Openings Unveiled Scripted Appeals</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/mastering-program-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Program Management: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/revealing-the-invisible-in-windows-control-panel-comprehensive-tutorial-for-finding-hidden-directories-and-documents-with-help-from-yl-software/"><u>Revealing the Invisible in Windows Control Panel: Comprehensive Tutorial for Finding Hidden Directories & Documents with Help From YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-setting-up-your-printer-drivers-on-windows-via-the-control-panel-tech-solutions-with-yl-software/"><u>Step-by-Step Guide: Setting Up Your Printer Drivers on Windows via the Control Panel - Tech Solutions with YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-historical-milestone-understanding-when-the-chinese-hundred-days-reform-occurred-with-yl-computing/"><u>The Historical Milestone: Understanding When the Chinese Hundred Days’ Reform Occurred with YL Computing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-quest-for-superior-video-capture-tools-for-2024/"><u>The Quest for Superior Video Capture Tools for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-your-pcs-hardware-failures-with-guidance-from-yl-software-experts/"><u>Troubleshooting Your PC's Hardware Failures with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/uncomplicated-podcast-live-master-the-art-of-livestreaming-for-2024/"><u>Uncomplicated Podcast Live Master the Art of Livestreaming for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-expand-your-karaoke-playlist-with-28-new-tracks-on-karaoke-cloud-pro-updated-april-9th/"><u>Unlimited Singing Fun: Expand Your Karaoke Playlist with 28 New Tracks on Karaoke Cloud Pro, Updated April 9Th!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/what-are-the-possible-dangers-when-implementing-yl-software-solutions-exploring-risks-with-yl-computing/"><u>What Are the Possible Dangers When Implementing YL Software Solutions? Exploring Risks with YL Computing.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-list-best-windows-11-webcams-for-recording/"><u>[New] 2024 Approved Ultimate List Best Windows 11 Webcams for Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-filters-through-windows-10-photos-extracting-picture-moments/"><u>[New] In 2024, Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/enhance-your-space-with-tech-savvy-tmnt-turtle-graphics-images-and-more-from-yl-computing-software-catalogue/"><u>Enhance Your Space with Tech-Savvy TMNT Turtle Graphics, Images and More From YL Computing Software Catalogue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-guide-to-using-openais-newly-released-gpt-personal-shop/"><u>Immediate Guide to Using OpenAI's Newly Released GPT Personal Shop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-itel-a05s-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Itel A05s FRP</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/latest-version-release-download-dex-31602-and-lyrx-amplifier-1702-now-available/"><u>Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-voice-overs-for-videos-step-by-step-guide/"><u>Mastering Voice-Overs for Videos Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-mbr-crashes-a-guide/"><u>Navigating Through Windows MBR Crashes: A Guide</u></a></li>
+<li><a href="https://tools.techidaily.com/premiumfxbot/products/"><u>Premiumfxbot's Products</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/the-end-of-vinyl-and-rise-of-digital-music-exploring-the-shift-from-physical-records-to-download-and-streaming-services/"><u>The End of Vinyl & Rise of Digital Music: Exploring the Shift From Physical Records to Download and Streaming Services</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-the-impact-of-system-restrictions-on-gpu-efficiency-insights-by-yl-computing/"><u>Understanding the Impact of System Restrictions on GPU Efficiency - Insights by YL Computing</u></a></li>
 </ul></div>
 

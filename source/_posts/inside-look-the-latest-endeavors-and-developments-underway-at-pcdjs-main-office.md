@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2024-12-21T02:23:35.387Z
-updated: 2024-12-23T22:23:19.091Z
+date: 2024-12-23T20:02:09.591Z
+updated: 2024-12-29T20:56:19.157Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-guide-to-planning-google-meet-sessions/"><u>[Updated] 2024 Approved Quick Guide to Planning Google Meet Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mp4-devices/"><u>[Updated] The Ultimate Guide to MP4 Devices</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-and-compact-the-ultimate-samsung-galaxy-s10e-assessment/"><u>Budget-Friendly and Compact: The Ultimate Samsung Galaxy S10e Assessment</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/capture-and-customize-like-a-pro-with-these-8-editing-tools-iphoneandroid/"><u>Capture & Customize Like a Pro with These 8 Editing Tools (iPhone/Android)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-all-in-one-printer-compatibility-with-windows-free-drivers-available/"><u>HP All-in-One Printer Compatibility with Windows - Free Drivers Available</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-m1-macbook-air-video-editors-dream-machine/"><u>In 2024, M1 MacBook Air Video Editor's Dream Machine?</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-generated-text/"><u>New What Is AI Generated Text?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-against-detection-assumptions/"><u>Scrutinizing Trust in ZeroGPT Against Detection Assumptions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-the-full-potential-of-free-countdown-tools/"><u>Unleashing the Full Potential of Free Countdown Tools</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/windows-security-essentials-a-comprehensive-guide-to-preventing-virus-and-malware-attacks-by-yl-computing-solutions/"><u>Windows Security Essentials: A Comprehensive Guide to Preventing Virus and Malware Attacks by YL Computing Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-master-content-creation-video-and-photo-synergy/"><u>[New] In 2024, Master Content Creation Video & Photo Synergy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[New] Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-prism-of-design-from-theory-to-practice/"><u>[Updated] 2024 Approved A Prism of Design From Theory to Practice</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>[Updated] In 2024, Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>[Updated] In 2024, The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-for-dealing-with-libgdk-win32-20-0dll-file-not-found-errors/"><u>Expert Advice for Dealing with libgdk-win32-2.0-0.dll File Not Found Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-s17e-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo S17e? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-can-you-identify-and-fix-sound-card-issues-on-your-windows-pc/"><u>How Can You Identify and Fix Sound Card Issues on Your Windows PC?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/identifying-and-troubleshooting-cpu-issues-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting CPU Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/lyrx-mac-karaoke-studio-plus-party-tyme-streaming-integration-now-available-get-the-latest-version-11-today/"><u>LYRX MAC Karaoke Studio + Party Tyme Streaming Integration Now Available | Get the Latest Version 1.1 Today!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-computer-sluggishness-from-excessive-background-processes-tips-and-tricks-yl-tech-solutions/"><u>Resolving Computer Sluggishness From Excessive Background Processes: Tips & Tricks - YL Tech Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/turn-off-your-pcs-alarm-bells-with-this-simple-fix-from-yl-computing/"><u>Turn Off Your PC's Alarm Bells with This Simple Fix From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-guide-to-printer-configuration-with-yl-software-solutions/"><u>Ultimate Guide to Printer Configuration with YL Software Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/uncovering-the-triggers-behind-the-opium-war-a-detailed-exploration-by-yl-software/"><u>Uncovering The Triggers Behind The Opium War: A Detailed Exploration by YL Software</u></a></li>
 </ul></div>
 

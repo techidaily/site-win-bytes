@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production
-date: 2024-12-17T17:26:29.538Z
-updated: 2024-12-24T13:00:02.553Z
+date: 2024-12-27T05:01:56.530Z
+updated: 2024-12-29T21:51:14.416Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ A ‘bar’ is also known as a measure and consists of 4 consecutive beats — a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New in DEX 3.20: Automatic Down-Beat & Bar Detection
@@ -45,13 +45,17 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 [![DEX 3 Beat Grid Editor](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How is it Done?
@@ -63,10 +67,6 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 3. Adjust the beat size until the next beats align correctly with the beats from the waveform — while you adjust the beat size the BPM value also changes.
 4. Repeat the step above (3) as many times as needed to correct the alignment throughout the whole song (for varying BPM tracks, this is a major plus). Start by scrolling slightly past where the initial down-beat was. Then advanced a bit more (around 20-30 seconds at a time) and re-adjust the beat size. Advanced all the way to the end of the track and correct the beat size as you go
 5. That it. That’s how beat-grid editing works for a track in DEX 3.20 (and up). For songs that have a varying dynamic tempo (such as live-playing bands) or different parts/sections that have a different BPM/beat-grid you can add as many beat-grids throughout the track as you’d like
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20
 
@@ -91,7 +91,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -113,19 +113,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>[Updated] 2024 Approved A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-full-screen-recovered-from-obs-errors-for-2024/"><u>[Updated] Full Screen Recovered From OBS Errors for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-every-angle-samsungs-pro-versus-lgs/"><u>2024 Approved Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-budget-for-video-popularity-on-youtube/"><u>2024 Approved How to Budget for Video Popularity on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-13t-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi 13T Pro without App | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/best-antivirus-protection-choosing-the-right-solution-expert-advice-from-yl-computing/"><u>Best Antivirus Protection: Choosing the Right Solution - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/elevate-your-karaoke-game-exclusive-subscription-to-premium-hits-on-karaoke-cloud-pro-start-now-at-offer-id-pcdj1917/"><u>Elevate Your Karaoke Game: Exclusive Subscription to Premium Hits on Karaoke Cloud Pro - Start Now at Offer ID PCDJ1917</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-resolution-hd-wallpapers-and-desktop-icons-of-the-bentley-bentayga-plug-in-hybrid-premium-vehicle-graphics-by-yl-computing/"><u>High-Resolution HD Wallpapers & Desktop Icons of the Bentley Bentayga Plug-In Hybrid - Premium Vehicle Graphics by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-handle-incompatible-pc-components-expert-tips-from-yl-computing/"><u>How to Handle Incompatible PC Components: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>In 2024, Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pureimages-backdrop-refinement-feature/"><u>PureImage's Backdrop Refinement Feature</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-customizing-display-and-energy-management-via-windows-control-panel-yl-software-solutions/"><u>Step-by-Step Guide: Customizing Display & Energy Management via Windows Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-potential-pitfalls-a-comprehensive-guide-to-cryptocurrency-investment-risks-by-yl-computing/"><u>Understanding Potential Pitfalls: A Comprehensive Guide to Cryptocurrency Investment Risks by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arrating-your-journey-channeling-authenticity-online/"><u>[New] Narrating Your Journey Channeling Authenticity Online.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevating-online-presence-with-obs-facebook-linking/"><u>[Updated] In 2024, Elevating Online Presence with OBS-Facebook Linking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-heavy-lift-drones-you-should-know/"><u>2024 Approved Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-imagination-cutting-edge-vr-tech/"><u>Beyond Imagination Cutting-Edge VR Tech</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/discover-active-background-processes-on-your-windows/"><u>Discover Active Background Processes on Your Windows</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-online-track-erasure-mastering-your-privacy-with-winutilities-history-cleaner-the-ultimate-guide-from-yl-computing/"><u>Effortless Online Track Erasure: Mastering Your Privacy with WinUtilities History Cleaner - The Ultimate Guide From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/evolving-smartphone-intelligence-how-oneplus-is-integrating-advanced-ai-capabilities/"><u>Evolving Smartphone Intelligence: How OnePlus Is Integrating Advanced AI Capabilities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-poco-f5-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Poco F5 5G?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-taskbar-setup-on-windows-11-expert-advice-from-yl-software-experts/"><u>Mastering Taskbar Setup on Windows 11 - Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-the-art-of-ico-whitepaper-analysis-with-yl-computings-expert-guidance/"><u>Mastering the Art of ICO Whitepaper Analysis with YL Computing's Expert Guidance</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>New In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-audio-malfunctions-related-to-the-sound-card-with-yl-software-guidance/"><u>Resolving Audio Malfunctions Related to the Sound Card with YL Software Guidance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-your-device-with-new-fingerprint-software-downloads-for-windows-users/"><u>Secure Your Device with New Fingerprint Software Downloads for Windows Users</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/summer-guide-essential-strategies-for-perfecting-your-set-at-open-air-festivals-with-pcdj/"><u>Summer Guide: Essential Strategies for Perfecting Your Set at Open-Air Festivals with PCDJ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-guide-what-to-do-with-a-malfunctioning-device-insights-by-yl-software-experts/"><u>Troubleshooting Guide: What to Do with a Malfunctioning Device? Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-frequent-windows-registry-issues-insights-from-yl-software-experts/"><u>Understanding Frequent Windows Registry Issues: Insights From YL Software Experts</u></a></li>
 </ul></div>
 

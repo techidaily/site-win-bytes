@@ -1,7 +1,7 @@
 ---
 title: Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!
-date: 2024-12-17T05:36:41.425Z
-updated: 2024-12-24T04:54:24.897Z
+date: 2024-12-22T17:40:53.695Z
+updated: 2024-12-30T00:23:09.535Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ow-to-find-youtube-collaboration-partners-for-2024/"><u>[New] How to Find YouTube Collaboration Partners for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[New] The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-staying-above-copyright-infringement-insta-watermarks-explained/"><u>[Updated] In 2024, Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/black-shark-5-pro-gaming-mouse-assessment-advanced-features-unveiled-techreview/"><u>Black Shark 5 Pro Gaming Mouse Assessment: Advanced Features Unveiled | TechReview</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/boost-your-computers-speed-and-performance-is-an-upgrade-what-you-need-insights-from-yl-software-experts/"><u>Boost Your Computer's Speed and Performance: Is an Upgrade What You Need? Insights From YL Software Experts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensively-understanding-wm6-setup/"><u>Comprehensively Understanding WM6 Setup</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/easy-ways-to-resize-text-on-your-screen-in-windows-11-with-yl-software-solutions/"><u>Easy Ways to Resize Text on Your Screen in Windows 11 with YL Software Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/evaluating-the-reliability-of-gratis-windows-registry-cleaners-expert-advice-by-yl-software-team/"><u>Evaluating the Reliability of Gratis Windows Registry Cleaners – Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exclusive-dj-membership-access-new-karaoke-tracks-and-song-selection-guide-updated-feb-28th-2na/"><u>Exclusive DJ Membership Access: New Karaoke Tracks & Song Selection Guide | Updated Feb 28Th, 2N/A!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exploring-file-and-folder-attributes-on-windows-a-comprehensive-guide-yl-software-solutions/"><u>Exploring File and Folder Attributes on Windows: A Comprehensive Guide - YL Software Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-world-of-warcraft-unable-to-open-errors-on-pc-solutions-that-work/"><u>Fixing 'World of Warcraft Unable to Open' Errors on PC - Solutions That Work!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-pitched-whirring-solutions-for-lowering-computer-cooling-system-speeds-advice-from-yl-software-experts/"><u>High-Pitched Whirring: Solutions for Lowering Computer Cooling System Speeds - Advice From YL Software Experts</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-detailed-breakdown-of-youtube-money/"><u>In 2024, The Detailed Breakdown of YouTube Money</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/setting-up-your-own-crypto-exchange-a-comprehensive-guide-by-yl-computing/"><u>Setting Up Your Own Crypto Exchange: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-uploading-dvd-files-to-your-google-drive-account/"><u>Step-by-Step Instructions for Uploading DVD Files to Your Google Drive Account</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tailoring-your-windows-11-experience-a-step-by-step-guide-to-personalizing-your-desktop-expert-tips-by-yl-computing/"><u>Tailoring Your Windows 11 Experience: A Step-by-Step Guide to Personalizing Your Desktop - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-6-figure-videos-top-hashtag-trends/"><u>Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/yl-computings-guide-mastering-parental-controls-on-windows-11-an-essential-walkthrough/"><u>YL Computing's Guide: Mastering Parental Controls on Windows 11 - An Essential Walkthrough</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[New] Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tying-emotions-to-the-right-soundtrack-in-movies/"><u>[New] Tying Emotions to the Right Soundtrack in Movies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-video-separation-standards-recorders-rating-review/"><u>[Updated] 2024 Approved Video Separation Standards Recorder's Rating Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-streams-with-simple-obs-guide/"><u>[Updated] Mastering YouTube Streams with Simple OBS Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-start-tips-for-easy-hitch-free-nft-creation/"><u>2024 Approved Quick-Start Tips for Easy, Hitch-Free NFT Creation</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/autobackupmicrosoft-onedrivebusiness/"><u>一鍵做到：無限AutoBackup綁定Microsoft OneDrive(Business)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/compatibility-check-for-all-crypto-options-with-yls-innovative-software/"><u>Compatibility Check for All Crypto Options with YL's Innovative Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/eco-friendly-green-arrow-dc-comic-desktop-scenarios-and-digital-backdrops-creative-powerhouse-by-yl-computing/"><u>Eco-Friendly Green Arrow DC Comic Desktop Scenarios & Digital Backdrops - Creative Powerhouse by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-do-graphics-cards-fail-exploring-the-most-frequent-troubles-and-solutions-with-yl-technology-insights/"><u>How Do Graphics Cards Fail? Exploring the Most Frequent Troubles and Solutions with YL Technology Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/pcdj-users-journey-leaving-karaoke-cloud-pro-behind-kjs-honest-review/"><u>PCDJ User's Journey: Leaving Karaoke Cloud Pro Behind - KJ's Honest Review</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/reinitializing-the-control-panel-in-windows-the-ultimate-restoration-method-by-yl-software/"><u>Reinitializing the Control Panel in Windows: The Ultimate Restoration Method by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-removing-user-profiles-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing User Profiles via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams-for-2024/"><u>The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-keyboard-tips-from-yl-software-solutions/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Keyboard - Tips From YL Software Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
 
