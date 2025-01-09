@@ -1,7 +1,7 @@
 ---
 title: Turntablism Tactics Unveiled with Richard Pitonyak and Jason Jones | Exclusive Mobile Music Secrets | #PCDJNetwork
-date: 2024-12-22T17:51:45.386Z
-updated: 2024-12-29T17:06:54.517Z
+date: 2025-01-04T12:30:28.231Z
+updated: 2025-01-09T09:44:04.703Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-event-ready-top-dj-templates-download-guide-for-2024/"><u>[New] Event-Ready Top DJ Templates Download Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ransform-your-video-editing-youtube-tunes-in-imovie-for-2024/"><u>[New] Transform Your Video Editing YouTube Tunes in iMovie for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[Updated] In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-free-openai-inspired-ais-outside-of-sora/"><u>Explore Free, OpenAI-Inspired AIs Outside of Sora</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-pitched-whirring-solutions-for-lowering-computer-cooling-system-speeds-advice-from-yl-software-experts/"><u>High-Pitched Whirring: Solutions for Lowering Computer Cooling System Speeds - Advice From YL Software Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-gt-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 GT Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/optimize-with-cookiebot-next-level-analytics-and-personalization-power/"><u>Optimize With Cookiebot: Next-Level Analytics and Personalization Power</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/revamp-your-pcs-look-changing-wallpaper-in-windows-control-panel-with-yl-software-expertise/"><u>Revamp Your PC's Look: Changing Wallpaper in Windows Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-the-dynamics-of-digital-asset-prices-with-yl-softwares-analytical-approach-to-cryptocurrency-valuation/"><u>Understanding the Dynamics of Digital Asset Prices with YL Software's Analytical Approach to Cryptocurrency Valuation</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-the-potential-pitfalls-and-safeguards-in-data-recovery-exploring-insights-from-yl-computings-experts/"><u>Understanding the Potential Pitfalls and Safeguards in Data Recovery - Exploring Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-affordable-karaoke-cloud-pro-no-more-expensive-outings/"><u>Unlimited Singing Fun: Affordable Karaoke Cloud Pro - No More Expensive Outings!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>[New] Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-becoming-a-trendsetter-youtube-video-tactics-for-2024/"><u>[Updated] Becoming a Trendsetter YouTube Video Tactics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-laughlens-pictorial-humor-studio/"><u>[Updated] LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-windows-11-photo-app-stability-troubleshooting/"><u>2024 Approved Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-tech-gear-webcams-that-take-your-streams-up-a-notch/"><u>2024 Approved Top Tech Gear Webcams That Take Your Streams Up a Notch</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/download-premium-ai-generated-hd-wallpaper-artwork-for-your-screen-featuring-the-ultimate-showdown-marvels-avengers-endgame/"><u>Download Premium AI-Generated HD Wallpaper Artwork for Your Screen, Featuring the Ultimate Showdown – Marvel's Avengers Endgame.</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-crypto-compliance-an-overview-of-government-policies-governing-digital-assets/"><u>Exploring Crypto Compliance: An Overview of Government Policies Governing Digital Assets</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/include-stage-directions-in-parentheses-that-fit-the-setting-of-a-grandiose-european-port-from-the-early-20th-century/"><u>Include Stage Directions in Parentheses that Fit the Setting of a Grandiose European Port From the Early 20Th Century.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-panoramic-videos-on-iphone-perfect-for-facebook-for-2024/"><u>Mastering Panoramic Videos on iPhone, Perfect for Facebook for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/protect-your-pc-essential-strategies-for-fixing-and-preventing-gpu-problems-in-windows-yl-software-guide/"><u>Protect Your PC: Essential Strategies for Fixing and Preventing GPU Problems in Windows (YL Software Guide)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restoring-your-pcs-registry-settings-to-factory-defaults-a-step-by-step-guide-expert-tips-by-yl-software/"><u>Restoring Your PC's Registry Settings to Factory Defaults: A Step-by-Step Guide - Expert Tips by YL Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters/"><u>Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-how-to-mail-a-valve-store-gift-voucher/"><u>Ultimate Tutorial on How to Mail a Valve Store Gift Voucher</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-security-essentials-a-comprehensive-guide-to-preventing-virus-and-malware-attacks-by-yl-computing-solutions/"><u>Windows Security Essentials: A Comprehensive Guide to Preventing Virus and Malware Attacks by YL Computing Solutions</u></a></li>
 </ul></div>
 

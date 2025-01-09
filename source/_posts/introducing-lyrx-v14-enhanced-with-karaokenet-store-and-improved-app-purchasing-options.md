@@ -1,7 +1,7 @@
 ---
 title: Introducing LYRX v1.4 - Enhanced With Karaoke.net Store & Improved App Purchasing Options
-date: 2024-12-22T20:59:42.194Z
-updated: 2024-12-29T22:23:07.629Z
+date: 2025-01-05T21:12:24.603Z
+updated: 2025-01-08T21:41:20.046Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ You can download the free update for existing LYRX customers below (the followin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How-to Use the Karaoke.net Store in LYRX
 
 [VIEW LARGER IMAGE ![Right-Click and Select Login](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1 "Right-Click and Select Login")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1)
@@ -39,6 +35,10 @@ You can download the free update for existing LYRX customers below (the followin
 Open up LYRX and locate the new “Karaoke.net” library tab located on the left side of the LYRX browser. Right-Click (MAC: CTRL + CLICK) on the Karaoke.net text and select the “Log in” option.
 
 [VIEW LARGER IMAGE ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1 "Select option to create an account")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you don’t already have an active account on the Karaoke.net website, select the option to “Create Account”. You will be then asked to create an account (User name and password, etc).
 
@@ -48,28 +48,28 @@ After creating the account and logging in with your freshly created credentials,
 
 [VIEW LARGER IMAGE ![Tick the Boxes next to songs you wish to buy](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1 "Tick the Boxes next to songs you wish to buy")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For-Sale songs will appear with a check box to the far right of the track information. You can preview samples of Karaoke.net tracks by simply loading the track to the LYRX player section via drag and drop (you can preview a few seconds of any Karaoke.net track using this method).
 
 Once you’ve located a song (or songs) you wish to purchase, place a “tick” in the box to the right of the track information as pictured above. This will add the song to the Shopping Cart. You can tick boxes for however many songs you wish to purchase and download at once.
 
 [VIEW LARGER IMAGE ![Checkout](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1 "Checkout")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” tab below the Karaoke.net tab and select “Order Tracks (shopping cart)”. This will bring up a form to type in your CC details to complete your purchase.
 
 [VIEW LARGER IMAGE ![Type in CC details and place order](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1 "Type in CC details and place order")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After typing in your CC details you can place your order. The purchased karaoke songs will download immediately and show a “check mark” next to the song to indicate the track is on your hard drive and ready to be played. Purchased karaoke songs will automatically be added to LYRX’s database/search cache and will also appear under the “Purchased” tab under the Karaoke.net tab. You will receive a receipt by email from Karaoke.net showing you the amount of the transaction. Also, credit card details will be stored per-session, so you only need to punch in your CC details once per session.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.4
@@ -83,7 +83,7 @@ After typing in your CC details you can place your order. The purchased karaoke 
 _Have questions about the latest 1.4 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,22 +105,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-karaokenet.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-color-keying-101-the-easy-guide-to-digital-backdrops-and-filming/"><u>[New] Color Keying 101 The Easy Guide to Digital Backdrops and Filming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-discovering-the-dynamics-of-whatsapp-vocal-messages-for-2024/"><u>[New] Discovering the Dynamics of WhatsApp Vocal Messages for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-fresh-tracks-alert-decembers-exclusive-additions-to-karaoke-cloud-pro-start-your-singing-journey-now/"><u>1. Fresh Tracks Alert: December's Exclusive Additions to Karaoke Cloud Pro - Start Your Singing Journey Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960538326-a-detailed-history-and-neurological-examination-are-crucial-for-narrowing-down-the-differential-diagnosis/"><u>A Detailed History and Neurological Examination Are Crucial for Narrowing Down the Differential Diagnosis.</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/beatsource-upgrade-introducing-dj-edits-and-increased-offline-locker-capacity-for-producers-on-the-go/"><u>Beatsource Upgrade: Introducing DJ Edits and Increased Offline Locker Capacity for Producers on the Go</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-most-advanced-body-cams-of-2024/"><u>Comprehensive Guide to the Most Advanced Body Cams of 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comprehensive-review-of-control-panel-configurations-for-effective-window-handling-your-learning-source/"><u>Comprehensive Review of Control Panel Configurations for Effective Window Handling - Your Learning Source</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cultivating-a-loyal-fanbase-through-open-channels/"><u>Cultivating a Loyal Fanbase Through Open Channels</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/download-premium-ai-generated-hd-wallpaper-artwork-for-your-screen-featuring-the-ultimate-showdown-marvels-avengers-endgame/"><u>Download Premium AI-Generated HD Wallpaper Artwork for Your Screen, Featuring the Ultimate Showdown – Marvel's Avengers Endgame.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-sense-the-ultimate-health-conscious-choice-beyond-apple-watch/"><u>Fitbit Sense: The Ultimate Health-Conscious Choice Beyond Apple Watch</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/future-prospects-of-karafunkel-karaoke-software-exploring-the-2018-outlook/"><u>Future Prospects of Karafunkel Karaoke Software - Exploring the 2018 Outlook</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-fix-your-non-working-audio-device-with-tips-from-yl-software-experts/"><u>How to Fix Your Non-Working Audio Device with Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-proportion-refinement-from-home/"><u>In 2024, Seamless Proportion Refinement From Home</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>In 2024, Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/optimizing-your-gpu-a-step-by-step-guide-to-customize-graphics-performance-expert-tips-from-yl-software/"><u>Optimizing Your GPU: A Step-by-Step Guide to Customize Graphics Performance - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/reviving-your-stuck-keys-comprehensive-guide-to-fixing-non-responsive-keyboard-issues-by-yl-computing/"><u>Reviving Your Stuck Keys: Comprehensive Guide to Fixing Non-Responsive Keyboard Issues by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-screen-changers-for-vivid-virtual-imagery/"><u>[New] Top Screen Changers for Vivid Virtual Imagery</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-100-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/awaiting-the-unknown-when-will-oculus-quest-iii-arrive/"><u>Awaiting the Unknown: When Will Oculus Quest III Arrive?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-now-the-speedier-way-to-transfer-dvd-content-to-quicktime-on-your-mac-for-free/"><u>Download Now: The Speedier Way to Transfer DVD Content to QuickTime on Your Mac for Free!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-unrecognized-graphics-card-issues-expert-advice-from-yl-software/"><u>How To Fix Unrecognized Graphics Card Issues: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/improving-your-print-output-essential-tips-by-professionals-at-yl-software-and-solutions/"><u>Improving Your Print Output: Essential Tips by Professionals at YL Software & Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f14-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F14 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>In 2024, Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mozilla-firefox-and-video-troubles-top-5-solutions-to-get-you-streaming-again/"><u>Mozilla Firefox and Video Troubles: Top 5 Solutions to Get You Streaming Again</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-computers-boot-settings-a-guide-through-control-panel-tips-from-yl-computing/"><u>Optimizing Your Computer's Boot Settings: A Guide Through Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlock-unlimited-tunes-join-the-party-time-karaoke-subscription-service-featuring-new-mixers-as-of-september-9-2019/"><u>Unlock Unlimited Tunes: Join the Party Time Karaoke Subscription Service Featuring New Mixers (As of September 9, 2019)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-computing-guide-steps-to-successfully-installuninstall-software/"><u>YL Computing Guide: Steps to Successfully Install/Uninstall Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-computings-guide-easy-steps-to-remove-applications-from-your-system/"><u>YL Computing's Guide: Easy Steps to Remove Applications From Your System</u></a></li>
 </ul></div>
 

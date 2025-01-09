@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2024-12-23T20:02:09.591Z
-updated: 2024-12-29T20:56:19.157Z
+date: 2025-01-06T08:23:40.454Z
+updated: 2025-01-08T18:45:17.055Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-master-content-creation-video-and-photo-synergy/"><u>[New] In 2024, Master Content Creation Video & Photo Synergy</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[New] Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-prism-of-design-from-theory-to-practice/"><u>[Updated] 2024 Approved A Prism of Design From Theory to Practice</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>[Updated] In 2024, Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>[Updated] In 2024, The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-for-dealing-with-libgdk-win32-20-0dll-file-not-found-errors/"><u>Expert Advice for Dealing with libgdk-win32-2.0-0.dll File Not Found Errors</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-s17e-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo S17e? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-can-you-identify-and-fix-sound-card-issues-on-your-windows-pc/"><u>How Can You Identify and Fix Sound Card Issues on Your Windows PC?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/identifying-and-troubleshooting-cpu-issues-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting CPU Issues: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/lyrx-mac-karaoke-studio-plus-party-tyme-streaming-integration-now-available-get-the-latest-version-11-today/"><u>LYRX MAC Karaoke Studio + Party Tyme Streaming Integration Now Available | Get the Latest Version 1.1 Today!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/resolving-computer-sluggishness-from-excessive-background-processes-tips-and-tricks-yl-tech-solutions/"><u>Resolving Computer Sluggishness From Excessive Background Processes: Tips & Tricks - YL Tech Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/turn-off-your-pcs-alarm-bells-with-this-simple-fix-from-yl-computing/"><u>Turn Off Your PC's Alarm Bells with This Simple Fix From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultimate-guide-to-printer-configuration-with-yl-software-solutions/"><u>Ultimate Guide to Printer Configuration with YL Software Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/uncovering-the-triggers-behind-the-opium-war-a-detailed-exploration-by-yl-software/"><u>Uncovering The Triggers Behind The Opium War: A Detailed Exploration by YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-the-experience-with-these-essential-flight-gears/"><u>[New] In 2024, Elevate the Experience with These Essential Flight Gears</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ey-audio-enhancement-tools-for-social-media-experts/"><u>[New] Key Audio Enhancement Tools for Social Media Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-pop-7-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Pop 7 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-cross-platform-green-screen-applications-ideal-for-windows-android-and-iphone-users/"><u>Best Cross-Platform Green Screen Applications: Ideal for Windows, Android & iPhone Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cultivating-an-online-community-via-periscope/"><u>Cultivating an Online Community via Periscope</u></a></li>
+<li><a href="https://article-posts.techidaily.com/enhanced-collection-of-dialogue-queries-to-boost-listener-interest-for-2024/"><u>Enhanced Collection of Dialogue Queries to Boost Listener Interest for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-exploring-the-latest-in-instagram-filters-for-stunning-visuals/"><u>In 2024, Exploring the Latest in Instagram Filters for Stunning Visuals</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/swift-success-stories-leveraging-instagram-likes-and-videos-for-2024/"><u>Swift Success Stories Leveraging Instagram Likes and Videos for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tackling-computer-overheating-effectively-with-tips-from-yl-software-experts/"><u>Tackling Computer Overheating Effectively with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!
-date: 2024-12-22T17:40:53.695Z
-updated: 2024-12-30T00:23:09.535Z
+date: 2025-01-02T02:40:07.011Z
+updated: 2025-01-09T07:23:28.663Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,21 +87,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[New] Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tying-emotions-to-the-right-soundtrack-in-movies/"><u>[New] Tying Emotions to the Right Soundtrack in Movies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-video-separation-standards-recorders-rating-review/"><u>[Updated] 2024 Approved Video Separation Standards Recorder's Rating Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-streams-with-simple-obs-guide/"><u>[Updated] Mastering YouTube Streams with Simple OBS Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-start-tips-for-easy-hitch-free-nft-creation/"><u>2024 Approved Quick-Start Tips for Easy, Hitch-Free NFT Creation</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/autobackupmicrosoft-onedrivebusiness/"><u>一鍵做到：無限AutoBackup綁定Microsoft OneDrive(Business)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/compatibility-check-for-all-crypto-options-with-yls-innovative-software/"><u>Compatibility Check for All Crypto Options with YL's Innovative Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/eco-friendly-green-arrow-dc-comic-desktop-scenarios-and-digital-backdrops-creative-powerhouse-by-yl-computing/"><u>Eco-Friendly Green Arrow DC Comic Desktop Scenarios & Digital Backdrops - Creative Powerhouse by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-do-graphics-cards-fail-exploring-the-most-frequent-troubles-and-solutions-with-yl-technology-insights/"><u>How Do Graphics Cards Fail? Exploring the Most Frequent Troubles and Solutions with YL Technology Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/pcdj-users-journey-leaving-karaoke-cloud-pro-behind-kjs-honest-review/"><u>PCDJ User's Journey: Leaving Karaoke Cloud Pro Behind - KJ's Honest Review</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/reinitializing-the-control-panel-in-windows-the-ultimate-restoration-method-by-yl-software/"><u>Reinitializing the Control Panel in Windows: The Ultimate Restoration Method by YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-removing-user-profiles-via-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Removing User Profiles via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams-for-2024/"><u>The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-keyboard-tips-from-yl-software-solutions/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Keyboard - Tips From YL Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-simplicity-in-conversion-turn-tiktok-videos-into-mp4-files/"><u>[Updated] 2024 Approved Simplicity in Conversion Turn TikTok Videos Into MP4 Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>[Updated] In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tips-for-unmuting-missing-facebook-audio/"><u>[Updated] In 2024, Tips for Unmuting Missing Facebook Audio</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-troubleshooting-a-non-responsive-windows-start-menu-tips-from-yl-computings-experts/"><u>1. Troubleshooting a Non-Responsive Windows Start Menu - Tips From YL Computing's Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/adjusting-font-sizes-easily-through-windows-control-panel-a-step-by-step-guide/"><u>Adjusting Font Sizes Easily Through Windows Control Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-liberer-windows-11-du-mode-veille-solutions-rapides-et-efficaces/"><u>Comment Libérer Windows 11 Du Mode Veille : Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-movavicoms-acceptable-usage-policy-and-conditions/"><u>Comprehensive Guide to MOVAVI.COM's Acceptable Usage Policy and Conditions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/fast-track-document-scanning-with-yl-softwares-strategies-to-speed-up-scanner-efficiency/"><u>Fast-Track Document Scanning with YL Software's Strategies to Speed Up Scanner Efficiency</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-resolution-paper-textured-wallpaper-hds-and-images-quality-graphics-by-yl-computing/"><u>High-Resolution Paper Textured Wallpaper HDs & Images - Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-v27-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo V27 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/secure-your-data-with-ease-windows/"><u>Secure Your Data with Ease: Windows</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-installing-applications-via-windows-control-panel-tech-insights-with-yl-computing/"><u>Step-by-Step Guide: Installing Applications via Windows Control Panel - Tech Insights with YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-benefits-why-choose-microsoft-copilot-over-chatgpt/"><u>Top Benefits: Why Choose Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-software-collection-of-professional-night-sky-backgrounds-and-images/"><u>YL Software Collection of Professional Night Sky Backgrounds & Images</u></a></li>
 </ul></div>
 
