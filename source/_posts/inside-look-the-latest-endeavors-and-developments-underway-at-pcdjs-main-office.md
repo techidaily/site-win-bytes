@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2025-01-06T08:23:40.454Z
-updated: 2025-01-08T18:45:17.055Z
+date: 2025-01-11T08:04:59.021Z
+updated: 2025-01-15T00:32:22.845Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,21 +60,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-the-experience-with-these-essential-flight-gears/"><u>[New] In 2024, Elevate the Experience with These Essential Flight Gears</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ey-audio-enhancement-tools-for-social-media-experts/"><u>[New] Key Audio Enhancement Tools for Social Media Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-pop-7-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Pop 7 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-cross-platform-green-screen-applications-ideal-for-windows-android-and-iphone-users/"><u>Best Cross-Platform Green Screen Applications: Ideal for Windows, Android & iPhone Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cultivating-an-online-community-via-periscope/"><u>Cultivating an Online Community via Periscope</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhanced-collection-of-dialogue-queries-to-boost-listener-interest-for-2024/"><u>Enhanced Collection of Dialogue Queries to Boost Listener Interest for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-exploring-the-latest-in-instagram-filters-for-stunning-visuals/"><u>In 2024, Exploring the Latest in Instagram Filters for Stunning Visuals</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/swift-success-stories-leveraging-instagram-likes-and-videos-for-2024/"><u>Swift Success Stories Leveraging Instagram Likes and Videos for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tackling-computer-overheating-effectively-with-tips-from-yl-software-experts/"><u>Tackling Computer Overheating Effectively with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-narzo-n55-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Narzo N55</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>2024 Approved Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/descargando-e-instalacion-simplificada-de-un-clonor-del-disco-con-win32-disk-imager-o-su-alternativa-para-windows-11-x64/"><u>Descargando E Instalación Simplificada De Un Clonor Del Disco Con Win32 Disk Imager O Su Alternativa Para Windows 11 X64</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/die-top-transfertechniken-sicheres-migrieren-ihres-outlook-ordners-auf-einen-neuen-computer/"><u>Die Top-Transfertechniken: Sicheres Migrieren Ihres Outlook-Ordners Auf Einen Neuen Computer</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/easy-guide-to-adjust-your-monitor-preferences-in-windows-tips-from-yl-computing/"><u>Easy Guide to Adjust Your Monitor Preferences in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-genghis-khan-and-the-mongol-conquest-shaped-chinas-historical-landscape-insights-by-yl-computing/"><u>How Genghis Khan & The Mongol Conquest Shaped China's Historical Landscape: Insights by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-will-advancements-in-crypto-technology-impact-worldwide-financial-markets-insights-from-yl-computing/"><u>How Will Advancements in Crypto Technology Impact Worldwide Financial Markets? – Insights From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/identifying-the-reasons-behind-your-computers-hardware-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Computer's Hardware Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-your-own-metal-parts-easier-meet-the-new-micronics-compact-and-budget-friendly-sls-printer-2999/"><u>Make Your Own Metal Parts Easier: Meet the New Micronics' Compact and Budget-Friendly SLS Printer ($2,999)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-multitasking-using-obs-studio-for-dynamic-streaming/"><u>Mastering Multitasking Using OBS Studio for Dynamic Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-konvertierung-mit-der-tta-datei-von-movavi-kostenlos/"><u>MP3 Konvertierung Mit Der TTA-Datei Von Movavi - Kostenlos</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-background-generator-in-2024/"><u>New What Is AI Background Generator, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/parrots-in-flight-a-deep-dive-into-bebops-essence-for-2024/"><u>Parrots in Flight A Deep Dive Into Bebop's Essence for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/recovery-procedures-voor-vergeten-icloud-toetsen-de-begintoogspel/"><u>Recovery Procedures Voor Vergeten iCloud-Toetsen - De Begintoogspel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-peak-performance-lipo-cells-for-drones/"><u>Selecting Peak Performance LiPo Cells for Drones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktoks-biggest-foodie-trends-unveiled/"><u>TikTok's Biggest Foodie Trends Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-voice-communication-issues-in-destiny-2/"><u>Troubleshooting Guide: How to Fix Voice Communication Issues in Destiny 2</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728477132783-win10/"><u>Win10 將如何解決安裝更新失敗的全面指南</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728464865499-windows-10/"><u>Windows 10 再インストール後に失われたファイルの回復方法</u></a></li>
 </ul></div>
 

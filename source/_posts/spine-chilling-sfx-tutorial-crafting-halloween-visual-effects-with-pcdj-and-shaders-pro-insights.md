@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2025-01-03T05:01:15.783Z
-updated: 2025-01-09T08:07:04.085Z
+date: 2025-01-10T20:43:43.560Z
+updated: 2025-01-15T06:58:25.962Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,19 +61,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-breaking-the-mold-revolutionary-methods-to-boost-your-fb-page-rank/"><u>[New] Breaking the Mold Revolutionary Methods to Boost Your FB Page Rank</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-sync-music-and-visuals-the-art-of-canva-editing/"><u>[New] In 2024, Sync Music & Visuals The Art of Canva Editing</u></a></li>
-<li><a href="https://win-special.techidaily.com/1-pc-messaging-made-easy-a-comprehensive-guide-to-sending-imessages-from-your-desktop/"><u>1. PC Messaging Made Easy: A Comprehensive Guide to Sending iMessages From Your Desktop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/accelerated-video-capture-device-and-voice-commentary-feature/"><u>Accelerated Video Capture Device & Voice Commentary Feature</u></a></li>
-<li><a href="https://fox-where.techidaily.com/cant-hook-up-your-scanner-heres-how-to-establish-a-successful-link-expert-advice-from-yl-software-experts/"><u>Can't Hook Up Your Scanner? Here's How to Establish a Successful Link – Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/get-your-hands-on-the-latest-dex-320-version-enhanced-beat-editing-and-bar-manipulation-options-ready-to-transform-music-production/"><u>Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use/"><u>High-Fidelity AVI Player for Portable & Stationary Use</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-prepare-your-pc-for-windows-11-a-comprehensive-driver-checklist-with-tips-from-yl-software-experts/"><u>How to Prepare Your PC for Windows 11: A Comprehensive Driver Checklist with Tips From YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Plus iOS? | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/quick-guide-creating-file-shortcuts-on-your-pc-with-windows-tips-from-yl-computing/"><u>Quick Guide: Creating File Shortcuts on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/the-decline-of-an-ancient-power-exploring-the-catalysts-for-the-end-of-qin-dynasty-with-yl-tech-solutions/"><u>The Decline of an Ancient Power: Exploring the Catalysts for the End of Qin Dynasty with YL Tech Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-updated-guide-to-video-audio-integration-for-filmmakers-for-2024/"><u>The Updated Guide to Video-Audio Integration for Filmmakers for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultra-hd-alfa-romeo-4c-imagery-and-photo-gallery-for-pcmac-professional-quality-visuals-by-yl-software/"><u>Ultra HD Alfa Romeo 4C Imagery and Photo Gallery for PC/Mac | Professional Quality Visuals by YL Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unable-to-install-drivers-on-your-pc-solutions-and-support-by-yl-software-experts/"><u>Unable to Install Drivers on Your PC? Solutions and Support by YL Software Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-selecting-the-ideal-screen-recording-application-obs-vs-fraps-showdown-for-2024/"><u>[New] Selecting the Ideal Screen Recording Application OBS vs Fraps Showdown for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-visual-revolution-how-to-upgrade-your-snapchat-photos/"><u>[Updated] In 2024, A Visual Revolution How to Upgrade Your Snapchat Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-lifeline-downloading-made-simple-pcmac/"><u>[Updated] Instagram Video Lifeline Downloading Made Simple (PC/Mac)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-smart-speakers-google-nest-audio-vs-nest-mini/"><u>Comparing Smart Speakers: Google Nest Audio Vs. Nest Mini</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/distinguishing-features-among-popular-crypto-coins-expertise-from-yl-software-solutions/"><u>Distinguishing Features Among Popular Crypto Coins - Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-ace-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Ace 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/finding-the-perfect-graphics-card-fit-for-your-computer-expert-advice-from-yl-software/"><u>Finding the Perfect Graphics Card Fit for Your Computer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-a-non-booting-pc-expert-tips-from-yl-computing/"><u>How to Fix a Non-Booting PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-reality-comparing-vr-augmented-and-mixed-tech/"><u>In 2024, Beyond Reality Comparing VR, Augmented & Mixed Tech</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/leveraging-blockchain-solutions-insights-from-yl-software-experts/"><u>Leveraging Blockchain Solutions: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unveiling-the-root-factors-a-deep-dive-into-the-triggers-behind-the-taiping-rebellion/"><u>Unveiling the Root Factors: A Deep Dive Into the Triggers Behind the Taiping Rebellion</u></a></li>
 </ul></div>
 
