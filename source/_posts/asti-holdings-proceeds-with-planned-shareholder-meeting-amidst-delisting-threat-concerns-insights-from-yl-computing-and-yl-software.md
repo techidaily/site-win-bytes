@@ -1,7 +1,7 @@
 ---
 title: ASTI Holdings Proceeds with Planned Shareholder Meeting Amidst Delisting Threat Concerns - Insights From YL Computing and YL Software
-date: 2025-01-13T22:36:57.128Z
-updated: 2025-01-15T06:09:06.113Z
+date: 2025-01-16T10:21:04.214Z
+updated: 2025-01-20T20:25:41.287Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-masterfb-mp4-hacking-facebook-videos-with-ease/"><u>[New] 2024 Approved MasterFB-MP4 Hacking Facebook Videos with Ease</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-visual-storytelling-hack-crafting-youtube-thumbnails-on-mobiles/"><u>[New] 2024 Approved Visual Storytelling Hack Crafting YouTube Thumbnails on Mobiles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-most-innovative-metaverse-visors-and-wearables-for-2024/"><u>[Updated] Unveiling the Most Innovative Metaverse Visors & Wearables for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/fixing-iphone-display-issues-on-windows-111087/"><u>Fixing iPhone Display Issues on Windows 11/10/8/7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-k70e-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi K70E to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-lock-in-your-favorite-tiktok-moments-smartly/"><u>How to Lock in Your Favorite TikTok Moments - Smartly</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/icloud-backup-timing-explained-determining-variables-for-backup-length-of-time/"><u>ICloud Backup Timing Explained: Determining Variables for Backup Length of Time</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macbook-dvdand/"><u>MacBook DVD再生ガイド：トラブルシューティング&成功のコツ</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-100-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor 100</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/secure-your-pc-with-no-cost-solutions-for-full-windows-11-data-restore/"><u>Secure Your PC with No Cost Solutions for Full Windows 11 Data Restore!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/techniques-pour-reparer-le-demarrage-dun-ordinateur-portable-sur-cddvd-sous-windows-nouvelles-fonctionnalites-de-lancement/"><u>Techniques Pour Réparer Le Démarrage D'un Ordinateur Portable Sur CD/DVD Sous Windows Nouvelles Fonctionnalités De Lancement</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tutorial-de-clonacion-profesional-usando-clonezilla-en-sistemas-operativos-windows/"><u>Tutorial De Clonación Profesional: Usando Clonezilla en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/wiederherstellung-versteckter-datentragerpartitionen-unter-windows-7-empfehlungen-und-tipps/"><u>Wiederherstellung Versteckter Datenträgerpartitionen Unter Windows 7: Empfehlungen Und Tipps</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728496475750-windows-11samsung/"><u>Windows 11上进行Samsung数据迁移：全面解锁技巧与替代策略</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/xbox-360-xbox-one-hdd/"><u>Xbox 360 / Xbox One HDD バックアップ作成手順 - ストレージコピーの簡単ガイド</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>[New] Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ast-track-to-1000-subscribers-in-youtube-landscape/"><u>[New] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-mp4-editing-on-mac-top-selections-for-youtubers/"><u>[Updated] 2024 Approved Mastering MP4 Editing on Mac Top Selections for YouTubers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-hidden-face-technique-for-anonymous-content-sharing/"><u>[Updated] 2024 Approved The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/44cm6auy5bqm44gq44ot44oh44kq57eo6zug77ya6zplusz5aow44ov44kh44kk44or44gu44kr44k544k44oe44kk44k644ks44kk44oj44cn/"><u>「高度なビデオ編集：音声ファイルのカスタマイズガイド」</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/bypassing-dvd-region-codes-a-comprehensive-tutorial/"><u>Bypassing DVD Region Codes: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/can-you-use-vp9-codec-in-handbrake-expert-tips-inside/"><u>Can You Use VP9 Codec in Handbrake? Expert Tips Inside!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/complete-guide-updating-your-video-thumbnail-on-youtube/"><u>Complete Guide: Updating Your Video Thumbnail on YouTube</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effective-techniques-for-converting-high-frame-rate-hfr-videos-into-lower-frame-rates/"><u>Effective Techniques for Converting High Frame Rate (HFR) Videos Into Lower Frame Rates</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-steps-to-transform-and-burn-movies-as-dvds-from-mov-files/"><u>Effortless Steps to Transform and Burn Movies as DVDs From .mov Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-screen-flicker-easily/"><u>Eliminate Screen Flicker Easily</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-converting-bulk-wav-audio-files-into-high-quality-flac-format/"><u>Guide: Converting Bulk WAV Audio Files Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-13-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 13 mini Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>In 2024, From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-owc-mercury-pro-exceptional-hard-drive-offering-industry-leading-speeds/"><u>Review of OWC Mercury Pro: Exceptional Hard Drive Offering Industry-Leading Speeds</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1726028515672-4/"><u>オーディオをビジュアルにするための4つのテクニック</u></a></li>
 </ul></div>
 

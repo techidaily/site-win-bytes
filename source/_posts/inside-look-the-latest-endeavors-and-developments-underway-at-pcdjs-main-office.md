@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2025-01-11T08:04:59.021Z
-updated: 2025-01-15T00:32:22.845Z
+date: 2025-01-18T06:14:34.548Z
+updated: 2025-01-21T11:02:45.863Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,24 +60,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-narzo-n55-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Narzo N55</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>2024 Approved Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/descargando-e-instalacion-simplificada-de-un-clonor-del-disco-con-win32-disk-imager-o-su-alternativa-para-windows-11-x64/"><u>Descargando E Instalación Simplificada De Un Clonor Del Disco Con Win32 Disk Imager O Su Alternativa Para Windows 11 X64</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/die-top-transfertechniken-sicheres-migrieren-ihres-outlook-ordners-auf-einen-neuen-computer/"><u>Die Top-Transfertechniken: Sicheres Migrieren Ihres Outlook-Ordners Auf Einen Neuen Computer</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/easy-guide-to-adjust-your-monitor-preferences-in-windows-tips-from-yl-computing/"><u>Easy Guide to Adjust Your Monitor Preferences in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-genghis-khan-and-the-mongol-conquest-shaped-chinas-historical-landscape-insights-by-yl-computing/"><u>How Genghis Khan & The Mongol Conquest Shaped China's Historical Landscape: Insights by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-will-advancements-in-crypto-technology-impact-worldwide-financial-markets-insights-from-yl-computing/"><u>How Will Advancements in Crypto Technology Impact Worldwide Financial Markets? – Insights From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/identifying-the-reasons-behind-your-computers-hardware-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Computer's Hardware Issues: Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/make-your-own-metal-parts-easier-meet-the-new-micronics-compact-and-budget-friendly-sls-printer-2999/"><u>Make Your Own Metal Parts Easier: Meet the New Micronics' Compact and Budget-Friendly SLS Printer ($2,999)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-multitasking-using-obs-studio-for-dynamic-streaming/"><u>Mastering Multitasking Using OBS Studio for Dynamic Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp3-konvertierung-mit-der-tta-datei-von-movavi-kostenlos/"><u>MP3 Konvertierung Mit Der TTA-Datei Von Movavi - Kostenlos</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-background-generator-in-2024/"><u>New What Is AI Background Generator, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/parrots-in-flight-a-deep-dive-into-bebops-essence-for-2024/"><u>Parrots in Flight A Deep Dive Into Bebop's Essence for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/recovery-procedures-voor-vergeten-icloud-toetsen-de-begintoogspel/"><u>Recovery Procedures Voor Vergeten iCloud-Toetsen - De Begintoogspel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/selecting-peak-performance-lipo-cells-for-drones/"><u>Selecting Peak Performance LiPo Cells for Drones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktoks-biggest-foodie-trends-unveiled/"><u>TikTok's Biggest Foodie Trends Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-voice-communication-issues-in-destiny-2/"><u>Troubleshooting Guide: How to Fix Voice Communication Issues in Destiny 2</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728477132783-win10/"><u>Win10 將如何解決安裝更新失敗的全面指南</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728464865499-windows-10/"><u>Windows 10 再インストール後に失われたファイルの回復方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-comprehensive-instructions-on-viewing-facebook-live-videos/"><u>[New] 2024 Approved Comprehensive Instructions on Viewing Facebook Live Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fading-fast-with-premiere-pro/"><u>[New] In 2024, Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-conquer-video-production-obs-studio-and-android/"><u>2024 Approved Conquer Video Production OBS Studio and Android</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/choosing-the-optimal-internet-connection-for-seamless-video-streaming-expert-advice-from-yl-computing/"><u>Choosing the Optimal Internet Connection for Seamless Video Streaming - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/expert-guide-troubleshooting-your-motherboard-issues-with-yls-tech-insights/"><u>Expert Guide: Troubleshooting Your Motherboard Issues with YL's Tech Insights</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-speed-up-your-sluggish-network-card-expert-advice-by-yl-software/"><u>How to Speed Up Your Sluggish Network Card - Expert Advice by YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027928639-obs-studio/"><u>OBS Studio入門：新米ユーザー用の簡単なスクリーン録画ガイド</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/overcoming-hurdles-with-windows-applications-why-wont-they-open-expert-advice-from-yl-computing/"><u>Overcoming Hurdles with Windows Applications: Why Won't They Open? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/setting-up-your-windows-11-firewall-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Windows 11 Firewall: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/simple-methods-for-converting-ebooks-into-ipad-compatible-files/"><u>Simple Methods for Converting eBooks Into iPad-Compatible Files</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/stunning-great-wall-of-china-desktop-wallpaper-and-hd-pictures-high-quality-visuals-by-yl-computing/"><u>Stunning Great Wall of China Desktop Wallpaper & HD Pictures - High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unraveling-the-consequences-of-the-boxer-rebellion-for-chinese-communities-analysis-by-yl-software-solutions/"><u>Unraveling the Consequences of the Boxer Rebellion for Chinese Communities – Analysis by YL Software Solutions</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/unsicher-ob-bilder-von-deinem-pc-heruntergeladen-werden-konnen-hier-ist-die-losung/"><u>Unsicher, Ob Bilder Von Deinem PC Heruntergeladen Werden Können? Hier Ist Die Lösung!</u></a></li>
 </ul></div>
 
