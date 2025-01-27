@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2025-01-16T21:30:57.250Z
-updated: 2025-01-20T18:13:03.290Z
+date: 2025-01-23T11:11:18.306Z
+updated: 2025-01-26T23:33:24.516Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-20-pubg-moment-snapshots-open-access/"><u>[New] Top 20 PUBG Moment Snapshots, Open Access</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snippet-showcase-cinematic-samples-for-editing-artists/"><u>[Updated] Snippet Showcase Cinematic Samples for Editing Artists</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streaming-supremacy-duo/"><u>2024 Approved Streaming Supremacy Duo</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5-effektieve-methoden-om-gehuilde-dateien-op-usb-sticks-teherstellen/"><u>5 Effektieve Methoden Om Gehuilde Dateien Op USB-Sticks Teherstellen</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/6-effective-strategies-for-recovering-backing-up-or-deleting-unsaved-excel-files/"><u>6 Effective Strategies for Recovering, Backing Up, or Deleting Unsaved Excel Files</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavimp3mkv/"><u>通過Movavi來進行在線MP3至MKV格式換算 - 為您提供無成本服務</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-paso-a-paso-rescatando-y-restaurando-datos-en-particiones-no-almacenadas-con-facilidad/"><u>Guía Paso a Paso: Rescatando Y Restaurando Datos en Particiones No Almacenadas Con Facilidad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/probleme-mit-der-taskbar-von-windows-11-gelost-durch-aktualisierung-erkunde-diese-5-schritte-zur-wiederherstellung/"><u>Probleme Mit Der Taskbar Von Windows 11, Gelöst Durch Aktualisierung - Erkunde Diese 5 Schritte Zur Wiederherstellung</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/simple-steps-seamlessly-move-your-apple-id-contacts-to-a-new-account/"><u>Simple Steps: Seamlessly Move Your Apple ID Contacts to a New Account</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/transferer-des-courriels-gmail-vers-votre-disque-dur-pour-une-organisation-digitale-aisee/"><u>Transférer Des Courriels Gmail Vers Votre Disque Dur Pour Une Organisation Digitale Aisée</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>[New] Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[New] In 2024, Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-tips-for-using-luts-in-adobe-after-effects/"><u>[Updated] In 2024, Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/cambia-file-video-m4v-in-dvd-video-vob-senza-costi-con-questo-guida-completa/"><u>Cambia File Video M4V in DVD-Video (VOB) Senza Costi Con Questo Guida Completa!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-10-v-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 10 V</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/editor-bezpecneho-priblizeni-otazek-podrobeni-videa-zvetsenim-ackoli-sledujici-znamy-prukopce/"><u>Editor Bezpečného Přiblížení Otázek: Podrobení Videa Zvětšením Ačkoli Sledující Známý Průkopce</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-guide-resolving-missing-msvcrt10dll-file-errors/"><u>Expert Guide: Resolving Missing msvcrt10.dll File Errors</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gratuiti-convertitori-on-line-per-trasformare-video-m4v-in-formato-mp4-con-movavi/"><u>Gratuiti Convertitori On-Line per Trasformare Video M4V in Formato MP4 Con Movavi</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guida-facile-per-tagliare-i-filmini-in-vlc-i-passaggi-essenziali/"><u>Guida Facile per Tagliare I Filmini in VLC: I Passaggi Essenziali</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60-pro-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Narzo 60 Pro 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-graciosa-conversao-de-arquivos-dts-em-formato-wav-para-download-on-line-gratuito/"><u>Movavi: Graciosa Conversão De Arquivos DTS Em Formato WAV Para Download On-Line Gratuito!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/online-webm-3gp-movavi/"><u>Online WEBM 3GP 갭바를 무료로 변환하는 최신 방법 - Movavi 소개</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-chatgpts-shared-access-links/"><u>The Mechanics Behind ChatGPT's Shared Access Links</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-selection-leading-news-aggregators/"><u>The Quintessential Selection: Leading News Aggregators</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/topo-das-melhores-conversores-de-pdf-gratuitos-para-mac-em-2024/"><u>Topo Das Melhores Conversores De PDF Gratuitos Para Mac Em 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210405363-9781737281801-truth-of-beauty/"><u>Truth of Beauty | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1726221181081-wma-movavi/"><u>WMAファイルのオンライン無料変換 - MOVAVI</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/avi-m2ts-movavi/"><u>무료 인터넷 사용을 위해 AVI를 M2TS로 단순화: Movavi의 가장 빠른 방법</u></a></li>
 </ul></div>
 

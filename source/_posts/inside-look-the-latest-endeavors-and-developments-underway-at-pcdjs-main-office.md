@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2025-01-18T06:14:34.548Z
-updated: 2025-01-21T11:02:45.863Z
+date: 2025-01-21T06:49:36.387Z
+updated: 2025-01-27T12:06:18.816Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-comprehensive-instructions-on-viewing-facebook-live-videos/"><u>[New] 2024 Approved Comprehensive Instructions on Viewing Facebook Live Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fading-fast-with-premiere-pro/"><u>[New] In 2024, Fading Fast with Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-conquer-video-production-obs-studio-and-android/"><u>2024 Approved Conquer Video Production OBS Studio and Android</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/choosing-the-optimal-internet-connection-for-seamless-video-streaming-expert-advice-from-yl-computing/"><u>Choosing the Optimal Internet Connection for Seamless Video Streaming - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/expert-guide-troubleshooting-your-motherboard-issues-with-yls-tech-insights/"><u>Expert Guide: Troubleshooting Your Motherboard Issues with YL's Tech Insights</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-speed-up-your-sluggish-network-card-expert-advice-by-yl-software/"><u>How to Speed Up Your Sluggish Network Card - Expert Advice by YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726027928639-obs-studio/"><u>OBS Studio入門：新米ユーザー用の簡単なスクリーン録画ガイド</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/overcoming-hurdles-with-windows-applications-why-wont-they-open-expert-advice-from-yl-computing/"><u>Overcoming Hurdles with Windows Applications: Why Won't They Open? Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/setting-up-your-windows-11-firewall-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Windows 11 Firewall: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/simple-methods-for-converting-ebooks-into-ipad-compatible-files/"><u>Simple Methods for Converting eBooks Into iPad-Compatible Files</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/stunning-great-wall-of-china-desktop-wallpaper-and-hd-pictures-high-quality-visuals-by-yl-computing/"><u>Stunning Great Wall of China Desktop Wallpaper & HD Pictures - High-Quality Visuals by YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unraveling-the-consequences-of-the-boxer-rebellion-for-chinese-communities-analysis-by-yl-software-solutions/"><u>Unraveling the Consequences of the Boxer Rebellion for Chinese Communities – Analysis by YL Software Solutions</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/unsicher-ob-bilder-von-deinem-pc-heruntergeladen-werden-konnen-hier-ist-die-losung/"><u>Unsicher, Ob Bilder Von Deinem PC Heruntergeladen Werden Können? Hier Ist Die Lösung!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-soundtrack-to-instagram-fame/"><u>[Updated] In 2024, The Soundtrack to Instagram Fame</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-solving-common-screen-issues-expert-fixes-for-incorrectly-displayed-content-on-your-monitor-guided-by-yl-computing/"><u>1. Solving Common Screen Issues: Expert Fixes for Incorrectly Displayed Content on Your Monitor - Guided by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-filaments-for-superior-3d-printing-results-2024-edition/"><u>Best-in-Class Filaments for Superior 3D Printing Results, 2024 Edition</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/discovering-the-origins-of-imperial-rule-in-china-a-look-at-the-first-dynasty/"><u>Discovering the Origins of Imperial Rule in China: A Look at the First Dynasty</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-solutions-for-when-the-asterisk-key-malfunctions/"><u>Expert Advice: Solutions for When the Asterisk Key Malfunctions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-dual-strengths-of-synologys-rt2600ac-remarkable-range-and-robust-parental-controls/"><u>Expert Review: Unveiling the Dual Strengths of Synology's RT2600ac - Remarkable Range & Robust Parental Controls</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-benefits-unveiling-the-potential-of-digital-currency-with-crypto-assets-a-guide-by-yl-computing/"><u>Exploring Benefits: Unveiling the Potential of Digital Currency with Crypto Assets - A Guide by YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 14? Learn All 4 Methods</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-an-improper-scanner-setup-on-your-device-expert-advice-by-yl-software-solutions/"><u>How to Fix an Improper Scanner Setup on Your Device - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>In 2024, Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/minisnapper-screen-recorder-feedback-for-2024/"><u>MiniSnapper Screen Recorder Feedback for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-scanner-detection-issues-in-windows-systems-with-yl-software-expertise/"><u>Troubleshooting Scanner Detection Issues in Windows Systems with YL Software Expertise</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-resource-for-finding-and-installing-gpu-drivers-tips-from-yl-software-experts/"><u>Ultimate Resource for Finding & Installing GPU Drivers - Tips From YL Software Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unraveling-computer-stalls-expert-answers-by-yl-technology-solutions/"><u>Unraveling Computer Stalls: Expert Answers by YL Technology Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unveiling-the-detection-mechanisms-how-microsofts-windows-defender-combats-viruses-and-malware-insights-from-yl-computing/"><u>Unveiling the Detection Mechanisms: How Microsoft's Windows Defender Combats Viruses & Malware - Insights From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-software-solutions-troubleshooting-guide-to-correct-common-application-glitches/"><u>YL Software Solutions: Troubleshooting Guide to Correct Common Application Glitches</u></a></li>
 </ul></div>
 
