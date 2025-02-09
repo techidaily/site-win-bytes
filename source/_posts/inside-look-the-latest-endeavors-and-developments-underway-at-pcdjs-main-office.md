@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2025-01-21T06:49:36.387Z
-updated: 2025-01-27T12:06:18.816Z
+date: 2025-02-01T17:16:04.407Z
+updated: 2025-02-09T00:14:23.765Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,24 +60,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-soundtrack-to-instagram-fame/"><u>[Updated] In 2024, The Soundtrack to Instagram Fame</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-solving-common-screen-issues-expert-fixes-for-incorrectly-displayed-content-on-your-monitor-guided-by-yl-computing/"><u>1. Solving Common Screen Issues: Expert Fixes for Incorrectly Displayed Content on Your Monitor - Guided by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-in-class-filaments-for-superior-3d-printing-results-2024-edition/"><u>Best-in-Class Filaments for Superior 3D Printing Results, 2024 Edition</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/discovering-the-origins-of-imperial-rule-in-china-a-look-at-the-first-dynasty/"><u>Discovering the Origins of Imperial Rule in China: A Look at the First Dynasty</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-solutions-for-when-the-asterisk-key-malfunctions/"><u>Expert Advice: Solutions for When the Asterisk Key Malfunctions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-dual-strengths-of-synologys-rt2600ac-remarkable-range-and-robust-parental-controls/"><u>Expert Review: Unveiling the Dual Strengths of Synology's RT2600ac - Remarkable Range & Robust Parental Controls</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/exploring-benefits-unveiling-the-potential-of-digital-currency-with-crypto-assets-a-guide-by-yl-computing/"><u>Exploring Benefits: Unveiling the Potential of Digital Currency with Crypto Assets - A Guide by YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 14? Learn All 4 Methods</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-fix-an-improper-scanner-setup-on-your-device-expert-advice-by-yl-software-solutions/"><u>How to Fix an Improper Scanner Setup on Your Device - Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>In 2024, Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/minisnapper-screen-recorder-feedback-for-2024/"><u>MiniSnapper Screen Recorder Feedback for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-scanner-detection-issues-in-windows-systems-with-yl-software-expertise/"><u>Troubleshooting Scanner Detection Issues in Windows Systems with YL Software Expertise</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultimate-resource-for-finding-and-installing-gpu-drivers-tips-from-yl-software-experts/"><u>Ultimate Resource for Finding & Installing GPU Drivers - Tips From YL Software Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unraveling-computer-stalls-expert-answers-by-yl-technology-solutions/"><u>Unraveling Computer Stalls: Expert Answers by YL Technology Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unveiling-the-detection-mechanisms-how-microsofts-windows-defender-combats-viruses-and-malware-insights-from-yl-computing/"><u>Unveiling the Detection Mechanisms: How Microsoft's Windows Defender Combats Viruses & Malware - Insights From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/yl-software-solutions-troubleshooting-guide-to-correct-common-application-glitches/"><u>YL Software Solutions: Troubleshooting Guide to Correct Common Application Glitches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-vrecorder-how-to-download-and-install/"><u>[New] 2024 Approved VRecorder - How to Download and Install</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-harness-googles-potential-for-your-podcasts-for-2024/"><u>[Updated] How to Harness Google’s Potential for Your Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>[Updated] The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5lij5oub5asn5psplus5ywj5b2p77ya57ch5zau5pa55byp5lplusu5q2j6kiy5oa25y2h5b2x5yop5asx5y676lmk5b2x/"><u>三招大放光彩：簡單方式修正記憶卡影像失去蹤影</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/die-top-3-losungen-fur-fehlende-outlook-e-mails-sofortige-massnahmen-ergreifen/"><u>Die Top 3 Lösungen Für Fehlende Outlook-E-Mails: Sofortige Maßnahmen Ergreifen!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-guide-setting-up-a-system-restore-on-windows-10-with-two-simple-methods/"><u>Effortless Guide: Setting Up a System Restore on Windows 10 with Two Simple Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-pc-the-complete-walkthrough-to-correct-ocidll-errors/"><u>Fix Your PC: The Complete Walkthrough to Correct Oci.dll Errors</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-complet-top-8-methodes-pour-debloquer-le-compteur-de-windows-11-stuck-a-0-ou-99/"><u>Guide Complet - Top 8 Méthodes Pour Débloquer Le Compteur De Windows 11 Stuck À 0% Ou 99%</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-climbing-the-viewership-ladder-with-igtv-strategies-to-succeed/"><u>In 2024, Climbing the Viewership Ladder with IGTV Strategies to Succeed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-making-traditional-academic-writing-a-thing-of-the-past/"><u>Is ChatGPT Making Traditional Academic Writing a Thing of the Past?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-data-rescue-a-step-by-step-guide-to-utilizing-microsoft-windows-file-recovery-on-windows-11/"><u>Mastering Data Rescue: A Step-by-Step Guide to Utilizing Microsoft Windows File Recovery on Windows 11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/passo-a-passo-como-transferir-dados-de-um-hdd-para-um-ssd-atraves-do-usb-metodo-simplificado/"><u>Passo-a-Passo: Como Transferir Dados De Um HDD Para Um SSD Através Do USB - Método Simplificado</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-start-guide-to-your-channels-easy-sign-up-button/"><u>Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quietude-on-the-silver-screen-a-study/"><u>Quietude on the Silver Screen A Study</u></a></li>
 </ul></div>
 

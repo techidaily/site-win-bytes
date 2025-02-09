@@ -1,7 +1,7 @@
 ---
 title: Introducing LYRX v1.4 - Enhanced With Karaoke.net Store & Improved App Purchasing Options
-date: 2025-01-16T19:13:21.185Z
-updated: 2025-01-21T01:53:18.684Z
+date: 2025-02-03T00:16:02.991Z
+updated: 2025-02-09T07:42:16.599Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ You can download the free update for existing LYRX customers below (the followin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How-to Use the Karaoke.net Store in LYRX
@@ -37,12 +37,16 @@ You can download the free update for existing LYRX customers below (the followin
 [VIEW LARGER IMAGE ![Right-Click and Select Login](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1 "Right-Click and Select Login")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Open up LYRX and locate the new “Karaoke.net” library tab located on the left side of the LYRX browser. Right-Click (MAC: CTRL + CLICK) on the Karaoke.net text and select the “Log in” option.
 
 [VIEW LARGER IMAGE ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1 "Select option to create an account")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you don’t already have an active account on the Karaoke.net website, select the option to “Create Account”. You will be then asked to create an account (User name and password, etc).
 
@@ -51,6 +55,10 @@ If you don’t already have an active account on the Karaoke.net website, select
 After creating the account and logging in with your freshly created credentials, you can access the “Catalog” tab below the Karaoke.net tab to immediately view all available songs (up to the minute). The songs are also automatically added to the LYRX’s search cache so they will display in search results when performing searches.
 
 [VIEW LARGER IMAGE ![Tick the Boxes next to songs you wish to buy](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1 "Tick the Boxes next to songs you wish to buy")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For-Sale songs will appear with a check box to the far right of the track information. You can preview samples of Karaoke.net tracks by simply loading the track to the LYRX player section via drag and drop (you can preview a few seconds of any Karaoke.net track using this method).
 
@@ -63,14 +71,10 @@ Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” ta
 [VIEW LARGER IMAGE ![Type in CC details and place order](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1 "Type in CC details and place order")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After typing in your CC details you can place your order. The purchased karaoke songs will download immediately and show a “check mark” next to the song to indicate the track is on your hard drive and ready to be played. Purchased karaoke songs will automatically be added to LYRX’s database/search cache and will also appear under the “Purchased” tab under the Karaoke.net tab. You will receive a receipt by email from Karaoke.net showing you the amount of the transaction. Also, credit card details will be stored per-session, so you only need to punch in your CC details once per session.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.4
 
@@ -81,10 +85,6 @@ After typing in your CC details you can place your order. The purchased karaoke 
 [DOWNLOAD LYRX v1.4](http://lyrxkaraoke.com/free-trial-2/)
 
 _Have questions about the latest 1.4 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,18 +105,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-karaokenet.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/mpeg-tsmp4/"><u>「Mpeg-TSファイルからmp4へ、ストレージ解放！無料オンラインツールで見事に変換しよう」</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>2024 Approved Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/convenient-snipping-identify-the-top-5-apps-for-pc-captures/"><u>Convenient Snipping Identify the Top 5 Apps for PC Captures</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmob-user-manual-effortlessly-move-music-from-ios-device-to-pc-with-windows-os/"><u>DearMob User Manual: Effortlessly Move Music From iOS Device to PC with Windows OS</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/gratuito-converter-de-midia-para-mp4-e-formatos-aac-em-linha-via-movavi/"><u>Gratuito: Converter De Mídia Para MP4 E Formatos AAC Em Linha via Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-summit-elite-studio-25-test/"><u>In 2024, Summit Elite Studio 25 Test</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-pc-with-these-4-win11-god-mode-tricks/"><u>Maximize Your PC with These 4 Win11 God Mode Tricks</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/network-card-troubleshooting-and-restoration-expert-advice-from-yl-computing-experts/"><u>Network Card Troubleshooting & Restoration: Expert Advice From YL Computing Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/topo-das-melhores-conversores-de-pdf-gratuitos-para-mac-em-2024/"><u>Topo Das Melhores Conversores De PDF Gratuitos Para Mac Em 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/transform-your-videos-effortlessly-convert-mkv-to-avi-for-free-using-our-web-based-tool/"><u>Transform Your Videos Effortlessly: Convert MKV to AVI for Free Using Our Web-Based Tool</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/visual-upgrades-in-newly-remastered-demons-souls-review-unchanged-excellence/"><u>Visual Upgrades in Newly Remastered Demon's Souls Review: Unchanged Excellence</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1726221181081-wma-movavi/"><u>WMAファイルのオンライン無料変換 - MOVAVI</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/avi-m2ts-movavi/"><u>무료 인터넷 사용을 위해 AVI를 M2TS로 단순화: Movavi의 가장 빠른 방법</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamline-your-presentation-process-webcam-recording-tips/"><u>[New] Streamline Your Presentation Process Webcam Recording Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-virtual-reality-terms-you-should-know-for-2024/"><u>[New] Virtual Reality Terms You Should Know for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-commanding-delivery-analysis-update-v8/"><u>[Updated] Commanding Delivery Analysis Update V8</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-through-complete-circles-on-screen/"><u>[Updated] Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/macos/"><u>如何在 macOS 上复制文件夹路径的高效技巧：详细指南</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/aomei-backup-software-version-history-new-features-and-improvements/"><u>AOMEI Backup Software Version History: New Features & Improvements</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/differenzierung-von-datenwiederherstellung-vs-datensynchronisierung-ein-tiefer-blick-in-die-techniken-und-nutzungsmuster/"><u>Differenzierung Von Datenwiederherstellung Vs. Datensynchronisierung – Ein Tiefer Blick in Die Techniken Und Nutzungsmuster</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/download-gratis-fuhrbare-systemsoftware-fur-windows-11-8-und-7-uber-usb-stick/"><u>Download Gratis: Führbare Systemsoftware Für Windows 11, 8, Und 7 Über USB-Stick</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ensuring-data-integrity-learn-how-to-safeguard-your-files-through-smart-hard-drive-segmentation-techniques/"><u>Ensuring Data Integrity: Learn How to Safeguard Your Files Through Smart Hard Drive Segmentation Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-detect-and-rectify-crc-cyclic-redundancy-check-errors-in-your-system/"><u>How to Detect and Rectify CRC (Cyclic Redundancy Check) Errors in Your System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A54 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/in-their-nucleotide-building-blocks-both-dna-and-rna-contain-the-bases-adenine-a-guanine-g-and-cytosine-c-however-while-thymine-t-is-found-in-dna-uracil-u-r276/"><u>In Their Nucleotide Building Blocks, Both DNA and RNA Contain the Bases Adenine (A), Guanine (G), and Cytosine (C). However, While Thymine (T) Is Found in DNA, Uracil (U) Replaces It in RNA.</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-excessive-cpu-consumption-by-dropbox-on-windows/"><u>Managing Excessive CPU Consumption by Dropbox on Windows</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restoring-your-trash-can-a-step-by-step-guide-to-placing-the-recycle-bin-on-your-desktop-in-windows-11/"><u>Restoring Your Trash Can: A Step-by-Step Guide to Placing the Recycle Bin on Your Desktop in Windows 11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/retrieve-lost-footage-restore-your-deleted-mxf-videos-with-p2-data-rescue/"><u>Retrieve Lost Footage - Restore Your Deleted MXF Videos with P2 Data Rescue</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/trouble-with-your-windows-5/"><u>Trouble with Your Windows 지정된 업데이트를 다운로드할 수 있는가요? 제공되는 5가지 해결 방법을 시도하세요!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-code-0xa00f4289-in-windows-webcam-errors/"><u>Troubleshooting Code 0xA00F4289 in Windows Webcam Errors</u></a></li>
 </ul></div>
 

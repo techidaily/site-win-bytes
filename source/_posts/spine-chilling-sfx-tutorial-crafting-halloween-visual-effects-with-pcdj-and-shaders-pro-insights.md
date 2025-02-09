@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2025-01-23T11:11:18.306Z
-updated: 2025-01-26T23:33:24.516Z
+date: 2025-02-01T17:29:04.571Z
+updated: 2025-02-08T17:12:04.765Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>[New] Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[New] In 2024, Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-tips-for-using-luts-in-adobe-after-effects/"><u>[Updated] In 2024, Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/cambia-file-video-m4v-in-dvd-video-vob-senza-costi-con-questo-guida-completa/"><u>Cambia File Video M4V in DVD-Video (VOB) Senza Costi Con Questo Guida Completa!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-10-v-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 10 V</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/editor-bezpecneho-priblizeni-otazek-podrobeni-videa-zvetsenim-ackoli-sledujici-znamy-prukopce/"><u>Editor Bezpečného Přiblížení Otázek: Podrobení Videa Zvětšením Ačkoli Sledující Známý Průkopce</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-guide-resolving-missing-msvcrt10dll-file-errors/"><u>Expert Guide: Resolving Missing msvcrt10.dll File Errors</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/gratuiti-convertitori-on-line-per-trasformare-video-m4v-in-formato-mp4-con-movavi/"><u>Gratuiti Convertitori On-Line per Trasformare Video M4V in Formato MP4 Con Movavi</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guida-facile-per-tagliare-i-filmini-in-vlc-i-passaggi-essenziali/"><u>Guida Facile per Tagliare I Filmini in VLC: I Passaggi Essenziali</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60-pro-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Narzo 60 Pro 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavi-graciosa-conversao-de-arquivos-dts-em-formato-wav-para-download-on-line-gratuito/"><u>Movavi: Graciosa Conversão De Arquivos DTS Em Formato WAV Para Download On-Line Gratuito!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/online-webm-3gp-movavi/"><u>Online WEBM 3GP 갭바를 무료로 변환하는 최신 방법 - Movavi 소개</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-chatgpts-shared-access-links/"><u>The Mechanics Behind ChatGPT's Shared Access Links</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-quintessential-selection-leading-news-aggregators/"><u>The Quintessential Selection: Leading News Aggregators</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/topo-das-melhores-conversores-de-pdf-gratuitos-para-mac-em-2024/"><u>Topo Das Melhores Conversores De PDF Gratuitos Para Mac Em 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210405363-9781737281801-truth-of-beauty/"><u>Truth of Beauty | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1726221181081-wma-movavi/"><u>WMAファイルのオンライン無料変換 - MOVAVI</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/avi-m2ts-movavi/"><u>무료 인터넷 사용을 위해 AVI를 M2TS로 단순화: Movavi의 가장 빠른 방법</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook-for-2024/"><u>[New] Connect & Entertain Stream Xbox Games on the World's Stage - Facebook for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-keywords-in-the-realm-of-virtual-reality-for-2024/"><u>[New] Keywords in the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-explore-10-youtube-creators-accelerating-their-popularity/"><u>[Updated] 2024 Approved Explore 10 YouTube Creators Accelerating Their Popularity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-simply-turn-off-your-insta-tv/"><u>[Updated] 2024 Approved Simply Turn Off Your Insta TV</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comment-effectuer-facilement-le-fantome-de-votre-session-windows-1011-et-des-applications/"><u>Comment Effectuer Facilement Le Fantôme De Votre Session Windows 10/11 Et Des Applications ?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comment-effectuer-une-copie-de-sauvegarde-mirror-avec-aomei-backupper-sur-macos/"><u>Comment Effectuer Une Copie De Sauvegarde Mirror Avec AOMEI Backupper Sur macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-error-code-0xca00a009-in-windows-update/"><u>Deciphering Error Code 0xCA00A009 in Windows Update</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-file-synchronization-with-synctoy-configuring-automatic-execution-on-windows-10/"><u>Effortless File Synchronization with SyncToy: Configuring Automatic Execution on Windows 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1813720-9781594748363-field-guide-to-luck/"><u>Field Guide to Luck | Free Book</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/free-guide-to-opening-heic-images-on-pcs-running-windows-11-10-8-or-7/"><u>Free Guide to Opening HEIC Images on PCs Running Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/holographic-horizons-trendsetting-wallpapers/"><u>Holographic Horizons Trendsetting Wallpapers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-realtek-card-reader-drivers-fast-optimal-compatibility-with-windows-11/"><u>Install RealTek Card Reader Drivers Fast: Optimal Compatibility with Windows 11!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-the-best-free-photography-enhancers-worldwide-for-2024/"><u>Navigate the Best Free Photography Enhancers Worldwide for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/top-empfehlung-fur-die-effiziente-ubernahme-mit-dem-lenovo-systemmigrationstool-fur-windows-111087/"><u>Top Empfehlung Für Die Effiziente Übernahme Mit Dem Lenovo Systemmigrationstool Für Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-guide-seamless-windows-7-11-backups-on-wd-my-cloud/"><u>Ultimate Guide: Seamless Windows 7-11 Backups on WD My Cloud</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728463743994-windows-11/"><u>Windows 11上的最迅速與最簡易硬盤克隆技巧</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effektivnye-sposoby-migracii-fajlov-s-zhestkogo-diska-na-ssd-pri-ispolzovanii-windows-11/"><u>Эффективные Способы Миграции Файлов С Жесткого Диска На SSD При Использовании Windows 11</u></a></li>
 </ul></div>
 

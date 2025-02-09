@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production
-date: 2025-01-20T18:47:18.919Z
-updated: 2025-01-27T04:44:52.365Z
+date: 2025-02-07T21:05:52.801Z
+updated: 2025-02-09T05:50:35.701Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ A ‘bar’ is also known as a measure and consists of 4 consecutive beats — a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New in DEX 3.20: Automatic Down-Beat & Bar Detection
@@ -45,17 +45,17 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 [![DEX 3 Beat Grid Editor](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How is it Done?
@@ -69,7 +69,7 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 5. That it. That’s how beat-grid editing works for a track in DEX 3.20 (and up). For songs that have a varying dynamic tempo (such as live-playing bands) or different parts/sections that have a different BPM/beat-grid you can add as many beat-grids throughout the track as you’d like
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20
@@ -113,18 +113,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-prelude-playlists-navigating-auditory-sources-for-podcasts/"><u>[New] Prelude Playlists Navigating Auditory Sources for Podcasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-first-timers-insights-into-pixel-density-matters/"><u>[Updated] First-Timer's Insights Into Pixel Density Matters</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-gentle-art-of-stepping-back-from-discords/"><u>[Updated] In 2024, The Gentle Art of Stepping Back From Discords</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1-troubleshooting-msi-restore-problems-effective-fixes-inside/"><u>1. Troubleshooting MSI Restore Problems: Effective Fixes Inside</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>2024 Approved Expert Insights Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5aac5l2v5luo5pww5o2u5ash5lu95pah5lu25lit5ogi5asn5lplush5ogv77ya5a6m5ywo5pwz56il/"><u>如何从数据备份文件中恢复信息：完全教程</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5lij5oub5asn5psplus5ywj5b2p77ya57ch5zau5pa55byp5lplusu5q2j6kiy5oa25y2h5b2x5yop5asx5y676lmk5b2x/"><u>三招大放光彩：簡單方式修正記憶卡影像失去蹤影</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/entendiendo-aomei-nuestra-trayectoria-en-la-seguridad-de-datos-con-copias-de-seguridad-confiables/"><u>Entendiendo AOMEI: Nuestra Trayectoria en La Seguridad De Datos Con Copias De Seguridad Confiables</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-realme-narzo-n55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Realme Narzo N55</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/smart-storage-solutions-how-to-connect-your-synology-server-to-google-drive/"><u>Smart Storage Solutions: How to Connect Your Synology Server to Google Drive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Components and Gadgets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-commanders-conclave-celebrating-the-best-of-7-total-wars/"><u>[New] In 2024, Commanders' Conclave Celebrating the Best of 7 Total Wars</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-strategies-for-documenting-ps3-matches-for-2024/"><u>[Updated] Essential Strategies for Documenting PS3 Matches for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/add-life-to-your-footage-title-updating-techniques-in-photos-win-11-for-2024/"><u>Add Life to Your Footage Title Updating Techniques in Photos Win 11 for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/analyzing-the-impact-unveiling-consequences-of-the-great-leap-forward-insights-by-yl-computing-and-software-solutions/"><u>Analyzing the Impact: Unveiling Consequences of the Great Leap Forward - Insights by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comprehensive-review-of-control-panel-configurations-for-effective-window-handling-your-learning-source/"><u>Comprehensive Review of Control Panel Configurations for Effective Window Handling - Your Learning Source</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/easy-guide-modifying-your-graphics-card-options-tips-from-yl-computing-and-yl-software/"><u>Easy Guide: Modifying Your Graphics Card Options - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-fix-your-pcs-display-issue-with-graphics-card-on-windows-expert-tips-by-yl-computing/"><u>How To Fix Your PC's Display Issue with Graphics Card on Windows - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-your-pics-to-life-with-easy-text-editing-apps/"><u>In 2024, Bring Your Pics to Life with Easy Text Editing Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>In 2024, Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/peaceful-mind-visuals-yl-softwares-collection-of-meditative-background-imagery-for-relaxation-and-focus/"><u>Peaceful Mind Visuals: YL Software’s Collection of Meditative Background Imagery for Relaxation and Focus</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/revolutionize-your-dj-library-with-the-ultimate-karaoke-file-renamer-tool/"><u>Revolutionize Your DJ Library with the Ultimate Karaoke File Renamer Tool</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/sizzling-dinner-and-mixology-tunes-with-dj-maestro-jason-your-ultimate-evening-guide-partyinstyle/"><u>Sizzling Dinner & Mixology Tunes with DJ Maestro Jason - Your Ultimate Evening Guide! #PartyInStyle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-system-performance-through-vram-upgrade-on-windows/"><u>Skyrocketing System Performance Through VRAM Upgrade on Windows</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/the-milestone-year-how-and-when-china-entered-wto-membership-in-2001-insights-by-yl-computing/"><u>The Milestone Year: How and When China Entered WTO Membership in 2001 - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-integrating-chatgpt-into-your-research-and-essay-processes/"><u>The Ultimate Guide to Integrating ChatGPT Into Your Research & Essay Processes</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unseen-scanner-issue-why-your-scanner-doesnt-appear-in-device-manager-expert-guide-by-yl-computing/"><u>Unseen Scanner Issue: Why Your Scanner Doesn't Appear in Device Manager - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-modern-apps-might-not-work-on-your-current-ipad/"><u>Why Modern Apps Might Not Work on Your Current iPad</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1728488313102-10/"><u>ウィンドウズ10用メールファイルを外部ディスクへの保存手順３種</u></a></li>
 </ul></div>
 

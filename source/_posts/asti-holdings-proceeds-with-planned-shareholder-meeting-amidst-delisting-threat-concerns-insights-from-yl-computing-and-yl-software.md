@@ -1,7 +1,7 @@
 ---
 title: ASTI Holdings Proceeds with Planned Shareholder Meeting Amidst Delisting Threat Concerns - Insights From YL Computing and YL Software
-date: 2025-01-16T10:21:04.214Z
-updated: 2025-01-20T20:25:41.287Z
+date: 2025-02-05T22:36:02.157Z
+updated: 2025-02-08T16:55:39.511Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>[New] Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ast-track-to-1000-subscribers-in-youtube-landscape/"><u>[New] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-mp4-editing-on-mac-top-selections-for-youtubers/"><u>[Updated] 2024 Approved Mastering MP4 Editing on Mac Top Selections for YouTubers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-hidden-face-technique-for-anonymous-content-sharing/"><u>[Updated] 2024 Approved The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/44cm6auy5bqm44gq44ot44oh44kq57eo6zug77ya6zplusz5aow44ov44kh44kk44or44gu44kr44k544k44oe44kk44k644ks44kk44oj44cn/"><u>「高度なビデオ編集：音声ファイルのカスタマイズガイド」</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/bypassing-dvd-region-codes-a-comprehensive-tutorial/"><u>Bypassing DVD Region Codes: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/can-you-use-vp9-codec-in-handbrake-expert-tips-inside/"><u>Can You Use VP9 Codec in Handbrake? Expert Tips Inside!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/complete-guide-updating-your-video-thumbnail-on-youtube/"><u>Complete Guide: Updating Your Video Thumbnail on YouTube</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effective-techniques-for-converting-high-frame-rate-hfr-videos-into-lower-frame-rates/"><u>Effective Techniques for Converting High Frame Rate (HFR) Videos Into Lower Frame Rates</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effortless-steps-to-transform-and-burn-movies-as-dvds-from-mov-files/"><u>Effortless Steps to Transform and Burn Movies as DVDs From .mov Files</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminate-screen-flicker-easily/"><u>Eliminate Screen Flicker Easily</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guide-converting-bulk-wav-audio-files-into-high-quality-flac-format/"><u>Guide: Converting Bulk WAV Audio Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-13-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 13 mini Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging/"><u>In 2024, From Lens to Legacy Building a Lasting Career in Travel Blogging</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-owc-mercury-pro-exceptional-hard-drive-offering-industry-leading-speeds/"><u>Review of OWC Mercury Pro: Exceptional Hard Drive Offering Industry-Leading Speeds</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1726028515672-4/"><u>オーディオをビジュアルにするための4つのテクニック</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>[New] In 2024, Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-voters-victories-reddits-most-popular-threads-top-10/"><u>[Updated] 2024 Approved Voters' Victories Reddit’s Most Popular Threads (Top 10)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-essential-strategies-for-enhancing-vsphere-security-a-comprehensive-guide/"><u>1. Essential Strategies for Enhancing vSphere Security: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/6-reasons-your-car-battery-keeps-dying/"><u>6 Reasons Your Car Battery Keeps Dying</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-711/"><u>如何修復Windows 7到11的顯示文件不可見問題？解析操作指南</u></a></li>
+<li><a href="https://network-issues.techidaily.com/better-pc-experience-with-swift-roblox-action/"><u>Better PC Experience with Swift Roblox Action</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comprehensive-ebackup-assistance-manual-essential-how-tos-for-seamless-backups/"><u>Comprehensive EBackup Assistance Manual: Essential How-To's for Seamless Backups</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-facebook-voice-with-gratuitous-enhancement-tools-for-2024/"><u>Elevate Your Facebook Voice with Gratuitous Enhancement Tools for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gestion-efficiente-des-donnees-avec-aomei-backupper-la-solution-de-sauvegarde-gratuit-n1-pour-windows-1087/"><u>Gestion Efficiente Des Données Avec AOMEI Backupper – La Solution De Sauvegarde Gratuit N°1 Pour Windows 10/8/7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-aesthetic-all-stars-popular-instagram-filters/"><u>In 2024, Aesthetic All-Stars Popular Instagram Filters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/overcoming-hulus-technical-glitch-a-step-by-step-solution-for-error-p-dev310-users/"><u>Overcoming Hulu's Technical Glitch: A Step-by-Step Solution for Error P-DEV310 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oneplus-12-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from OnePlus 12</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/professionista-di-backup-e-ripristini-per-aziende-la-guida-completa-allaomei-backupper/"><u>Professionista Di Backup E Ripristini per Aziende: La Guida Completa All'AOMEI Backupper</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-step-by-step-manual-on-creating-and-using-a-system-restore-cddvd/"><u>Ultimate Step-by-Step Manual on Creating & Using a System Restore CD/DVD</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlocking-the-secrets-of-restoring-accidentally-erased-folders-on-google-drive/"><u>Unlocking the Secrets of Restoring Accidentally Erased Folders on Google Drive</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-dual-screen-video-editing-apps-for-mobile-devices-for-2024/"><u>Updated Top Dual-Screen Video Editing Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
 

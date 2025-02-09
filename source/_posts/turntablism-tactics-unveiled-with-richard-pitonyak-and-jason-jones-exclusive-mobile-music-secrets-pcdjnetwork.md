@@ -1,7 +1,7 @@
 ---
 title: Turntablism Tactics Unveiled with Richard Pitonyak and Jason Jones | Exclusive Mobile Music Secrets | #PCDJNetwork
-date: 2025-01-19T11:06:22.002Z
-updated: 2025-01-20T21:02:55.237Z
+date: 2025-02-04T06:40:45.422Z
+updated: 2025-02-09T09:08:04.731Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,18 +42,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-save-money-with-the-right-youtube-tv-plan/"><u>[New] In 2024, How to Save Money with the Right YouTube TV Plan</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-diy-build-custom-google-cardboard-virtual-reality/"><u>[Updated] In 2024, DIY Build Custom Google Cardboard Virtual Reality</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/msvcp110dll5/"><u>如何迅速找回MSVCP110.dll：完整教程和5种高级策略解决失灵问题</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comprehensive-tutorial-on-transferring-your-outlook-contacts-into-a-pst-format/"><u>Comprehensive Tutorial on Transferring Your Outlook Contacts Into a PST Format</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-get-your-xbox-wireless-driver-pack-here/"><u>Effortless Installation: Get Your Xbox Wireless Driver Pack Here</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guide-simple-et-pratique-pour-creer-une-image-de-disque-dinstallation-windows-10/"><u>Guide Simple Et Pratique Pour Créer Une Image De Disque D'installation Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-a56s-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo A56s 5G online without jailbreak</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mobiles-best-explore-8-leading-free-mp3-download-applications-for-2024/"><u>Mobile's Best Explore 8 Leading Free MP3 Download Applications for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/seamless-steps-moving-your-applications-from-an-older-ipad-to-a-latest-model-ipad-pro-air-or-mini/"><u>Seamless Steps: Moving Your Applications From an Older iPad to a Latest Model (iPad Pro, Air, or Mini)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-transfer-learning-techniques-and-implementation/"><u>The Ins and Outs of AI Transfer Learning: Techniques & Implementation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/tips-for-accurate-age-input-in-tiktok-profiles/"><u>Tips for Accurate Age Input in TikTok Profiles</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/top-rated-no-cost-backup-solutions-featuring-bootable-winpe-compatibility/"><u>Top-Rated No Cost Backup Solutions Featuring Bootable WinPE Compatibility</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-youtubes-operations-after-video-upload/"><u>[New] In 2024, Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>[Updated] Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>[Updated] Video Blogging Essentials Choosing the Best Cameras and Lenses</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/google-whatsapp/"><u>「Googleドライブに移行: WhatsAppデータのバックアップ手順ガイド」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5zplus65pys5oyh5y2x77ya5aac5l2v6yen5bu66leo5yy656ob55uy5pww5o2u/"><u>基本指南：如何重建跨区磁盘数据</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comment-trouvez-vous-la-meilleure-solution-gratuite-a-cloneapp-sur-windows-en-2023/"><u>Comment Trouvez-Vous La Meilleure Solution Gratuite À CloneApp Sur Windows en 2023?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/expert-strategies-for-file-restoration-across-different-drive-partitions/"><u>Expert Strategies for File Restoration Across Different Drive Partitions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guia-para-la-seleccion-del-mejor-wizard-de-copia-de-seguridad-de-correo-electronico-en-2023-la-alternativa-ideal/"><u>Guía Para La Selección Del Mejor Wizard De Copia De Seguridad De Correo Electrónico en 2023 - La Alternativa Ideal</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nubia-red-magic-8s-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nubia Red Magic 8S Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>In 2024, The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/instantly-share-selfies-the-step-by-step-walkthrough/"><u>Instantly Share Selfies The Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/top-5-best-linux-distros-for-cloning-in-windows-11-a-comprehensive-guide/"><u>Top 5 Best Linux Distros for Cloning in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/wie-losen-sie-das-problem-bootfahiges-gerat-nicht-gefunden-datenwiederherstellung/"><u>Wie Lösen Sie Das Problem Bootfähiges Gerät Nicht Gefunden - Datenwiederherstellung?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728468327236-windows-11-5/"><u>Windows 11 完整指南 - 如何選擇性地備份文件夾：5 種有效技巧</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-studio-editor-transform-your-videos-with-ease/"><u>YouTube Studio Editor Transform Your Videos with Ease</u></a></li>
 </ul></div>
 
