@@ -1,7 +1,7 @@
 ---
 title: "Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights"
-date: 2025-02-01T17:29:04.571Z
-updated: 2025-02-08T17:12:04.765Z
+date: 2025-02-12T16:54:20.501Z
+updated: 2025-02-19T08:10:54.980Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ Get creative and build an overlay using an image (or text) and a Halloween video
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the steps we used to create the demonstration above:
@@ -39,7 +39,7 @@ Using the combination of Shaders and Overlays allows you to create wicked cool H
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/10/halloween-cover-image-shad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook-for-2024/"><u>[New] Connect & Entertain Stream Xbox Games on the World's Stage - Facebook for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-keywords-in-the-realm-of-virtual-reality-for-2024/"><u>[New] Keywords in the Realm of Virtual Reality for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-explore-10-youtube-creators-accelerating-their-popularity/"><u>[Updated] 2024 Approved Explore 10 YouTube Creators Accelerating Their Popularity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-simply-turn-off-your-insta-tv/"><u>[Updated] 2024 Approved Simply Turn Off Your Insta TV</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comment-effectuer-facilement-le-fantome-de-votre-session-windows-1011-et-des-applications/"><u>Comment Effectuer Facilement Le Fantôme De Votre Session Windows 10/11 Et Des Applications ?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comment-effectuer-une-copie-de-sauvegarde-mirror-avec-aomei-backupper-sur-macos/"><u>Comment Effectuer Une Copie De Sauvegarde Mirror Avec AOMEI Backupper Sur macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-error-code-0xca00a009-in-windows-update/"><u>Deciphering Error Code 0xCA00A009 in Windows Update</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effortless-file-synchronization-with-synctoy-configuring-automatic-execution-on-windows-10/"><u>Effortless File Synchronization with SyncToy: Configuring Automatic Execution on Windows 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1813720-9781594748363-field-guide-to-luck/"><u>Field Guide to Luck | Free Book</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/free-guide-to-opening-heic-images-on-pcs-running-windows-11-10-8-or-7/"><u>Free Guide to Opening HEIC Images on PCs Running Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/holographic-horizons-trendsetting-wallpapers/"><u>Holographic Horizons Trendsetting Wallpapers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-realtek-card-reader-drivers-fast-optimal-compatibility-with-windows-11/"><u>Install RealTek Card Reader Drivers Fast: Optimal Compatibility with Windows 11!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-the-best-free-photography-enhancers-worldwide-for-2024/"><u>Navigate the Best Free Photography Enhancers Worldwide for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/top-empfehlung-fur-die-effiziente-ubernahme-mit-dem-lenovo-systemmigrationstool-fur-windows-111087/"><u>Top Empfehlung Für Die Effiziente Übernahme Mit Dem Lenovo Systemmigrationstool Für Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultimate-guide-seamless-windows-7-11-backups-on-wd-my-cloud/"><u>Ultimate Guide: Seamless Windows 7-11 Backups on WD My Cloud</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728463743994-windows-11/"><u>Windows 11上的最迅速與最簡易硬盤克隆技巧</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effektivnye-sposoby-migracii-fajlov-s-zhestkogo-diska-na-ssd-pri-ispolzovanii-windows-11/"><u>Эффективные Способы Миграции Файлов С Жесткого Диска На SSD При Использовании Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-creating-masterpiece-canon-chrono-films/"><u>[New] In 2024, Creating Masterpiece Canon Chrono Films</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-explore-vivid-skies-highlighted-hdr-web-platforms-for-2024/"><u>[Updated] Explore Vivid Skies Highlighted HDR Web Platforms for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5-effective-methods-for-trimming-videos-in-windows-11/"><u>5 Effective Methods for Trimming Videos in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vs-mirrorless-optimal-choice-for-video-production/"><u>DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/embark-on-a-digital-communication-adventure-with-google-meet-for-2024/"><u>Embark on a Digital Communication Adventure with Google Meet for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-secure-communication-in-the-workplace-with-chatgpt-best-practices-and-protections/"><u>Ensuring Secure Communication in the Workplace with ChatGPT: Best Practices and Protections</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/free-online-conversion-transform-mp4-files-into-asf-format-with-easy-steps/"><u>Free Online Conversion: Transform MP4 Files Into ASF Format with Easy Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-sua-ferramenta-livre-para-converter-videos-do-formato-mkv-on-line/"><u>Movavi: Sua Ferramenta Livre Para Converter Vídeos Do Formato MKV On-Line</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mpgwebm-movavi/"><u>MPG到WEBM自由下載的線上過渡器：以 Movavi 為例</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-media-tool-errors-0x8007043c-and-0x90017-fixes/"><u>Overcoming Media Tool Errors: 0X8007043C and 0X90017 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-the-point-of-interest-with-new-cursor-style/"><u>Redefine the Point of Interest with New Cursor Style</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/rmvbmp4-movavi/"><u>RMVB到MP4转换精选：最快捷、最简单的教程 | Movavi</u></a></li>
 </ul></div>
 

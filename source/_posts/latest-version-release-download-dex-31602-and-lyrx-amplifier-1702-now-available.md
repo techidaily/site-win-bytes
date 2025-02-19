@@ -1,7 +1,7 @@
 ---
 title: Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!
-date: 2025-02-07T17:40:17.498Z
-updated: 2025-02-09T04:33:02.316Z
+date: 2025-02-13T08:32:25.210Z
+updated: 2025-02-18T16:42:37.130Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Changes and Fixes Included in DEX 3.16.0.2 and LYRX 1.7.0.2
@@ -35,7 +35,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![DEX 3.16.0.2](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/08/karaoke-playing-performing.jpg?fit=300%2C167&ssl=1 "DEX 3.16.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DEX 3.16.0.2**
@@ -49,7 +49,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 ![LYRX 1.7.0.2](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/LYRX17screenshot.jpg?fit=300%2C169&ssl=1 "LYRX 1.7.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **LYRX v1.7.0.2**
@@ -65,7 +65,7 @@ The key update for DEX 3 is a fix for a [SoundCloud Go+](https://tools.techidail
 **MacOS | IMPORTANT NOTE:** If you receive this warning _“(product name here) can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3/LYRX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,20 +87,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2021/08/dex3-lyrx-updates.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-cinemas-next-frontier-virtual-reality/"><u>[New] 2024 Approved Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-accessible-no-cost-tools-to-craft-professional-slideshows/"><u>[New] Accessible, No-Cost Tools to Craft Professional Slideshows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-level-up-your-livestream-game-using-obs-youtube-and-twitch/"><u>[New] Level-Up Your Livestream Game Using OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavi-ogmmpg/"><u>簡単に入手!無料でMovavi OGMをMPG形式に変換する方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-openais-gpt-evolution-gpt-1-4/"><u>A Guide to OpenAI's GPT Evolution (GPT-1-4)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/cambie-sus-imagenes-cr2-a-formato-png-sin-costo-alguno-mediante-movavis-herramienta-online/"><u>Cambie Sus Imágenes CR2 a Formato PNG Sin Costo Alguno Mediante Movavi's Herramienta Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/climate-change-mitigation-through-urban-design-innovations-for-2024/"><u>Climate Change Mitigation Through Urban Design Innovations for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/convertir-audio-desde-el-tipo-de-archivo-ape-al-m4a-directamente-en-internet-gratuito-con-movavi/"><u>Convertir Audio Desde El Tipo De Archivo APE Al M4A Directamente en Internet Gratuito Con Movavi</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/discovering-open-source-masterpieces-and-resources/"><u>Discovering Open-Source Masterpieces & Resources</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-facil-para-tomar-capturas-de-pantalla-partiales-en-windows-11/"><u>Guía Fácil Para Tomar Capturas De Pantalla Partiales en Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-reno-9a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Reno 9A Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>In 2024, Review How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavi-transforma-tus-videos-mov-al-estandar-section-1-the-theme-question/"><u>Móvavi - Transforma Tus Vídeos MOV Al Estándar # Section 1: The Theme Question</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/online-mxf/"><u>Online MXF 편집 자동화: 무료 번역 방법</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/windows-movavi/"><u>Windows 기반 Movavi 프로그램 액세스를위한 확실한 인증 방법</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-clearing-your-browsers-watched-videos/"><u>[Updated] 2024 Approved Clearing Your Browser's Watched Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-luxury-sedan-sj4000s-best-kept-secrets-gear-up/"><u>[Updated] 2024 Approved Luxury Sedan SJ4000's Best-Kept Secrets Gear Up</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-design-and-graphics-free-and-affordable-sources/"><u>2024 Approved Innovative Design and Graphics Free & Affordable Sources</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-system-protection-the-ultimate-guide-to-automating-backups-in-windows-1187-with-top-rated-freeware-tools/"><u>Effortless System Protection: The Ultimate Guide to Automating Backups in Windows 11/8/7 with Top-Rated Freeware Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-flawlessly-update-and-setup-newest-evga-graphics-card-drivers-in-windows/"><u>How to Flawlessly Update and Setup Newest EVGA Graphics Card Drivers in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y27s-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y27s Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-14-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi 14 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/quick-guide-how-to-effortlessly-link-documents-to-a-common-network-folder/"><u>Quick Guide: How to Effortlessly Link Documents to a Common Network Folder</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restore-whats-gone-effective-methods-for-recovering-deleted-photos-on-your-iphone-eight-plus/"><u>Restore What's Gone: Effective Methods for Recovering Deleted Photos on Your iPhone Eight Plus</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/scaricare-il-programma-di-migrazione-dati-di-samsung-per-windows-10-una-guida-completa/"><u>Scaricare Il Programma Di Migrazione Dati Di Samsung per Windows 10: Una Guida Completa</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/simple-methods-for-moving-your-iphones-note-app-data-to-google-drive/"><u>Simple Methods for Moving Your iPhone's Note App Data to Google Drive</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/simple-steps-how-to-seamlessly-transfer-your-windows-system-images-to-the-cloud/"><u>Simple Steps: How to Seamlessly Transfer Your Windows System Images to the Cloud</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-5-cameras-for-extended-time-lapses/"><u>Superior 5 Cameras for Extended Time-Lapses</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a56s-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A56s 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/transfere-en-douceur-clonage-de-votre-hdd-vers-un-disque-ssd-samsung-avec-systeme-dexploitation-et-programmes-integres/"><u>Transféré en Douceur: Clonage De Votre HDD Vers Un Disque SSD Samsung Avec Système D'exploitation Et Programmes Intégrés</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-7-optimal-artifice-intelligence-tools-for-superior-math-proficiency/"><u>Unveiling the 7 Optimal Artifice Intelligence Tools for Superior Math Proficiency</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-server-2016os/"><u>Windows Server 2016でシステムリカバーを利用してOSを再構築する手順</u></a></li>
 </ul></div>
 

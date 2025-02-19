@@ -1,7 +1,7 @@
 ---
 title: Turntablism Tactics Unveiled with Richard Pitonyak and Jason Jones | Exclusive Mobile Music Secrets | #PCDJNetwork
-date: 2025-02-04T06:40:45.422Z
-updated: 2025-02-09T09:08:04.731Z
+date: 2025-02-17T09:30:31.309Z
+updated: 2025-02-18T16:39:05.158Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ In this new video segment Richard explains how he _‘reads the room’_ during 
 As usual, the Mobile Music segment is a must-watch for any new Mobile DJs or seasoned veteran. Never stop learning and honing your DJ craft!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/12/readingtheroomdjntv-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-youtubes-operations-after-video-upload/"><u>[New] In 2024, Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>[Updated] Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>[Updated] Video Blogging Essentials Choosing the Best Cameras and Lenses</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/google-whatsapp/"><u>「Googleドライブに移行: WhatsAppデータのバックアップ手順ガイド」</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/5zplus65pys5oyh5y2x77ya5aac5l2v6yen5bu66leo5yy656ob55uy5pww5o2u/"><u>基本指南：如何重建跨区磁盘数据</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comment-trouvez-vous-la-meilleure-solution-gratuite-a-cloneapp-sur-windows-en-2023/"><u>Comment Trouvez-Vous La Meilleure Solution Gratuite À CloneApp Sur Windows en 2023?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/expert-strategies-for-file-restoration-across-different-drive-partitions/"><u>Expert Strategies for File Restoration Across Different Drive Partitions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-para-la-seleccion-del-mejor-wizard-de-copia-de-seguridad-de-correo-electronico-en-2023-la-alternativa-ideal/"><u>Guía Para La Selección Del Mejor Wizard De Copia De Seguridad De Correo Electrónico en 2023 - La Alternativa Ideal</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nubia-red-magic-8s-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nubia Red Magic 8S Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>In 2024, The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/instantly-share-selfies-the-step-by-step-walkthrough/"><u>Instantly Share Selfies The Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/top-5-best-linux-distros-for-cloning-in-windows-11-a-comprehensive-guide/"><u>Top 5 Best Linux Distros for Cloning in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/wie-losen-sie-das-problem-bootfahiges-gerat-nicht-gefunden-datenwiederherstellung/"><u>Wie Lösen Sie Das Problem Bootfähiges Gerät Nicht Gefunden - Datenwiederherstellung?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728468327236-windows-11-5/"><u>Windows 11 完整指南 - 如何選擇性地備份文件夾：5 種有效技巧</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-studio-editor-transform-your-videos-with-ease/"><u>YouTube Studio Editor Transform Your Videos with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-mac-video-software-alternatives-to-bandicam/"><u>[New] In 2024, Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-feathery-symphony-bebop-parrot-2-dissected/"><u>2024 Approved A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/cambia-file-video-m4v-in-dvd-video-vob-senza-costi-con-questo-guida-completa/"><u>Cambia File Video M4V in DVD-Video (VOB) Senza Costi Con Questo Guida Completa!</u></a></li>
+<li><a href="https://win11.techidaily.com/fortifying-the-fortress-stabilizing-windows-dwarf-gameplay/"><u>Fortifying the Fortress: Stabilizing Windows-Dwarf Gameplay</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guida-facile-per-tagliare-i-filmini-in-vlc-i-passaggi-essenziali/"><u>Guida Facile per Tagliare I Filmini in VLC: I Passaggi Essenziali</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-graciosa-conversao-de-arquivos-dts-em-formato-wav-para-download-on-line-gratuito/"><u>Movavi: Graciosa Conversão De Arquivos DTS Em Formato WAV Para Download On-Line Gratuito!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/online-webm-3gp-movavi/"><u>Online WEBM 3GP 갭바를 무료로 변환하는 최신 방법 - Movavi 소개</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-tips-how-to-nullify-chatgpts-recording-function/"><u>Privacy Tips: How to Nullify ChatGPT's Recording Function</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/topos-tacticas-para-optimizacion-de-animaciones-de-video-libres-guias-y-conocimientos-clave/"><u>Topos Tácticas Para Optimización De Animaciones De Video Libres: Guías Y Conocimientos Clave</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-how-chatgpts-new-feature-enables-fully-tailored-gpt-model-generation/"><u>Unleashing Creativity: How ChatGPT’s New Feature Enables Fully Tailored GPT Model Generation</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1726221181081-wma-movavi/"><u>WMAファイルのオンライン無料変換 - MOVAVI</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/avi-m2ts-movavi/"><u>무료 인터넷 사용을 위해 AVI를 M2TS로 단순화: Movavi의 가장 빠른 방법</u></a></li>
 </ul></div>
 
