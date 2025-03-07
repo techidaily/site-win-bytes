@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Latest Endeavors and Developments Underway at PCDJ's Main Office"
-date: 2025-02-16T18:01:28.635Z
-updated: 2025-02-18T16:13:09.216Z
+date: 2025-03-04T19:44:42.904Z
+updated: 2025-03-07T19:44:37.117Z
 tags:
   - product
 categories:
@@ -26,20 +26,12 @@ No, this is all about what’s next, and what new and fantastic features we have
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DJ Software: What We’re Working On Now
 
 * [Icecast](http://icecast.org/) is a streaming media server — supporting it in DEX 3 and RED Mobile 3 means our customers can create an Internet radio stations using various online services. Icecast is very versatile in that new formats can be added relatively easily and supports open standards for communication and interaction. By supporting this, our DJ software will also stream meta data to the radio platform (_such as [Radionomy](http://www.radionomy.com/)_) – keeping in compliance with reporting regulations. In short, you can be a internet radio DJ with Icecast Support.
 * This feature update to DEX 3 and RED Mobile 3 will provide the most accurate BPM detection we’ve ever introduced. Not only will BPM detection calculate a tracks BPM more accurately, but the new algorithm will account for tempo shifts and genres that the current detection doesn’t work perfectly with. This means that _“SYNC”_ will now only line up the beats for you as it does now, but will also lock songs together — so they never drift. This will allow DJs using PCDJ to focus on other aspects of their mix, with seamless beat mixing handled by the software.
 * Visualizations of our own design are well underway for DEX 3 – thus while you’re not mixing video files and just playing audio tracks you can run visualizations on screen for beat-synced animated imagery. This is one of the most requested feature updates by DEX 3 customers now and should be available, barring any setbacks, in DEX 3.4 (_the next free update_). We’ve written our own visualizations to keep in line with our ‘exclusive code’ goals — they are not third party visuals.
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -60,22 +52,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-clocking-down-the-big-day-10-best-mobile-apps-revealed-for-2024/"><u>[Updated] Clocking Down the Big Day 10 Best Mobile Apps Revealed for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[Updated] In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>2024 Approved Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723059171133-2024s-leading-keyboard-comfort-accessories-wrist-rests-reviewed-and-ranked/"><u>2024'S Leading Keyboard Comfort Accessories: Wrist Rests Reviewed and Ranked</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-driver-for-your-brother-mfc-l2690dw-all-in-one-laser-printer/"><u>Download & Install Driver for Your Brother MFC L2690DW All-in-One Laser Printer</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/evaluating-the-reliability-of-gratis-windows-registry-cleaners-expert-advice-by-yl-software-team/"><u>Evaluating the Reliability of Gratis Windows Registry Cleaners – Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-pitched-whirring-solutions-for-lowering-computer-cooling-system-speeds-advice-from-yl-software-experts/"><u>High-Pitched Whirring: Solutions for Lowering Computer Cooling System Speeds - Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-complete-solution/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite - Complete Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to iPad? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-real-time-photo-sharing-in-google-meet-for-2024/"><u>Mastering Real-Time Photo Sharing in Google Meet for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/revamp-your-pcs-look-changing-wallpaper-in-windows-control-panel-with-yl-software-expertise/"><u>Revamp Your PC's Look: Changing Wallpaper in Windows Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-customizing-display-and-energy-management-via-windows-control-panel-yl-software-solutions/"><u>Step-by-Step Guide: Customizing Display & Energy Management via Windows Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-the-dynamics-of-digital-asset-prices-with-yl-softwares-analytical-approach-to-cryptocurrency-valuation/"><u>Understanding the Dynamics of Digital Asset Prices with YL Software's Analytical Approach to Cryptocurrency Valuation</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/understanding-the-potential-pitfalls-and-safeguards-in-data-recovery-exploring-insights-from-yl-computings-experts/"><u>Understanding the Potential Pitfalls and Safeguards in Data Recovery - Exploring Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-affordable-karaoke-cloud-pro-no-more-expensive-outings/"><u>Unlimited Singing Fun: Affordable Karaoke Cloud Pro - No More Expensive Outings!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/unveiling-the-goals-an-in-depth-look-at-the-aspirations-behind-the-boxer-rebellion-with-yl-computing-yl-software/"><u>Unveiling the Goals: An In-Depth Look at the Aspirations Behind the Boxer Rebellion with YL Computing | YL Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>[New] 2024 Approved ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-travel-vloggers-the-ultimate-10-list/"><u>[New] In 2024, Essential Travel Vloggers The Ultimate 10 List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-edge-mastery-in-your-hands-the-samsung-galaxy-tab-s7pluss-roadmap-to-android-supremacy/"><u>Cutting-Edge Mastery in Your Hands: The Samsung Galaxy Tab S7+'s Roadmap to Android Supremacy</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/effortless-file-transfer-mastering-the-art-of-sending-documents-from-ios-to-pc-using-airdrop/"><u>Effortless File Transfer: Mastering the Art of Sending Documents From iOS to PC Using AirDrop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-track-solution-fixing-slow-windows-11-updates/"><u>Fast Track Solution: Fixing Slow Windows 11 Updates</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/foto-wiederherstellung-aus-adobe-photoshop-lightroom-schritt-fur-schritt-anleitungen/"><u>Foto Wiederherstellung Aus Adobe Photoshop Lightroom - Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-acquainted-with-gptzero-for-detecting-ais/"><u>Getting Acquainted with GPTZero for Detecting AIs</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/kopiere-musik-von-amazon-auf-itunes-mithilfe-von-fonebackup-schnellstart/"><u>Kopiere Musik Von Amazon Auf iTunes Mithilfe Von FoneBackup - Schnellstart</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/meet-nelly-yu-a-glimpse-into-the-life-of-an-acclaimed-author/"><u>Meet Nelly Yu: A Glimpse Into the Life of an Acclaimed Author</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/speeding-up-system-boot-essential-tips-from-yl-computing/"><u>Speeding Up System Boot: Essential Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782132-9781594779541-the-crazy-wisdom-of-ganesh-baba/"><u>The Crazy Wisdom of Ganesh Baba | Free Book</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/top-rated-no-cost-usb-data-backup-solutions-for-windows-pcs/"><u>Top Rated No-Cost USB Data Backup Solutions for Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-when-counter-strike-global-offensive-wont-start/"><u>Troubleshooting Steps for When Counter-Strike Global Offensive Won't Start</u></a></li>
 </ul></div>
 

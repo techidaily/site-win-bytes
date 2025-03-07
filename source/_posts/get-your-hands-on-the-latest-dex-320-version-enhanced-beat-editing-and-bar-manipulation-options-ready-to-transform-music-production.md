@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest DEX 3.20 Version - Enhanced Beat Editing and Bar Manipulation Options Ready to Transform Music Production
-date: 2025-02-16T06:10:40.901Z
-updated: 2025-02-19T11:34:48.041Z
+date: 2025-03-02T20:47:32.932Z
+updated: 2025-03-07T16:32:41.987Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ A ‘bar’ is also known as a measure and consists of 4 consecutive beats — a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New in DEX 3.20: Automatic Down-Beat & Bar Detection
 
 DEX 3.20 is now equipped with automatic down-beat and bar detection. The ‘down beat’ is the first beat in each bar/measure; it marks the starting of a bar. You’ll notice that the ‘down beat’ indicator showcased in the beat-grid (waveform area of the deck) is slightly thicker than the usual beat markers.
@@ -44,14 +40,6 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 
 [![DEX 3 Beat Grid Editor](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)](https://i0.wp.com/pcdj.com/wp-content/uploads/2023/02/grid-editor.jpg?fit=833%2C540&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 ### How is it Done?
@@ -63,10 +51,6 @@ Here’s an overview of the freshly added ‘beat-grid editing’. This powerful
 3. Adjust the beat size until the next beats align correctly with the beats from the waveform — while you adjust the beat size the BPM value also changes.
 4. Repeat the step above (3) as many times as needed to correct the alignment throughout the whole song (for varying BPM tracks, this is a major plus). Start by scrolling slightly past where the initial down-beat was. Then advanced a bit more (around 20-30 seconds at a time) and re-adjust the beat size. Advanced all the way to the end of the track and correct the beat size as you go
 5. That it. That’s how beat-grid editing works for a track in DEX 3.20 (and up). For songs that have a varying dynamic tempo (such as live-playing bands) or different parts/sections that have a different BPM/beat-grid you can add as many beat-grids throughout the track as you’d like
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in DEX 3.20
 
@@ -90,10 +74,6 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 
 _Have questions about the latest 3.20 version of our **Top DJ software**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=876%2C534&ssl=1 534 876 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2023-02-24 11:11:022023-04-10 17:03:36DEX 3.20 is Ready for Download | Beats, Bars, and Beat-Grid Editing}
@@ -113,16 +93,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/02/dex3-beat-editor.jpg?fit=8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/44cm5yq5546h55qe44gq44oh44o844k566h55cg77ya4paz5pel5lul5ymn44gu6ygo5y676kiy5oa244ks6ieq5yuv5ymk6zmk5pa55rov44cn/"><u>「効率的なデータ管理：△日以前の過去記憶を自動削除方法」</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/6kej5rg65pa55rov77ya5aac5l2v5a6m576o55cg6kej6ksh6zuc55qe5aplusg56k85lplusd5ywo/"><u>解決方法：如何完美理解複雜的密碼保全</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guide-complet-trois-solutions-efficaces-pour-le-repaire-du-microsoft-store-sous-windows-11/"><u>Guide Complet : Trois Solutions Efficaces Pour Le Repaire Du Microsoft Store Sous Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-huawei-p60-by-drfone-android/"><u>In 2024, How to Bypass FRP on Huawei P60?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211375438-9780061748950-papal-magic/"><u>Papal Magic | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/secure-your-files-and-folders-with-passwords-on-windows-11-explore-these-three-easy-techniques/"><u>Secure Your Files & Folders with Passwords on Windows 11 - Explore These Three Easy Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-shutting-down-a-stale-linkedin-account-for-2024/"><u>The Ultimate Guide to Shutting Down a Stale LinkedIn Account for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728490157545-windows-10usb/"><u>Windows 10でポータブルなバックアップソフトウェアをUSBデバイスに組み込む方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-10-best-camcorder-ultimate-review/"><u>[New] 10 Best Camcorder [Ultimate Review]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersing-viewers-in-new-realities-the-vr-film-revolution/"><u>[New] Immersing Viewers in New Realities The VR Film Revolution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-online-presence-video-embellishment-with-logos-and-watermarks/"><u>[Updated] Optimize Online Presence Video Embellishment with Logos and Watermarks</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/boost-your-systems-performance-expert-advice-on-overcoming-slowdowns-and-stalls-in-hard-drive-functionality-by-yl-software/"><u>Boost Your System's Performance: Expert Advice on Overcoming Slowdowns and Stalls in Hard Drive Functionality by YL Software</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/detecting-low-ink-levels-how-to-check-your-printers-paper-supply-insights-from-yl-computing/"><u>Detecting Low Ink Levels: How to Check Your Printer's Paper Supply - Insights From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-performance-jaguar-f-pace-svr-desktop-backgrounds-by-yl-computing-yl-software-collection/"><u>High-Performance Jaguar F-Pace SVR Desktop Backgrounds by YL Computing - YL Software Collection</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-wallet-management-a-step-by-step-guide-to-checking-your-crypto-assets-with-yls-digital-tools/"><u>Mastering Wallet Management: A Step-by-Step Guide to Checking Your Crypto Assets with YL's Digital Tools</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/safe-storage-techniques-for-your-digital-assets-a-guide-by-yl-computing/"><u>Safe Storage Techniques for Your Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-secure-ways-to-erase-every-bit-of-data-from-your-iphone-using-ios-apps/"><u>Top 10 Secure Ways to Erase Every Bit of Data From Your iPhone Using iOS Apps</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/top-tools-to-enhance-your-computers-speed-and-efficiency-a-guide-by-yl-computing/"><u>Top Tools to Enhance Your Computer's Speed & Efficiency: A Guide by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-for-sustainable-visual-recording/"><u>Ultimate Guide for Sustainable Visual Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/videography-6-tips-for-making-macro-video-for-2024/"><u>Videography 6 Tips for Making Macro Video for 2024</u></a></li>
 </ul></div>
 
